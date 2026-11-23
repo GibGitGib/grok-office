@@ -1,6 +1,6 @@
-const AS_OF = "Nov 2, 2026, 1:10 PM ET";
+const AS_OF = "Nov 23, 2026, 2:10 PM ET";
 
-const ZONES = ["Front office", "Build pod", "Signal loop pod", "Social desk", "Projects wing"];
+const ZONES = ["Front office","Build pod","Signal loop pod","Social desk","Projects wing"];
 
 const AGENTS = [
   {
@@ -9,15 +9,15 @@ const AGENTS = [
     initials: "GB",
     role: "Primary router",
     zone: "Front office",
-    lastSeen: "Nov 1",
+    lastSeen: "Nov 23",
     items: [
-      { text: "Usage: 5.4% of this week's limit used as of Nov 1, 8 PM ET (resets Sun Nov 8, 12:57 PM ET). Routines are only about 7% of usage; most comes from direct asks. Tell Grok Bot which cuts to make, if any: fewer, tighter asks to Big Reece and Kodie, or trim the two most frequent routines (Office dashboard refresh, ranking game sets)", you: true, asOf: "Nov 1" },
-      { text: "Money Talks: merge the older draft into the live catalog card, or clear it", you: true, asOf: "Oct 11" },
+      { text: "Usage review (Nov 22): most usage is from direct chats with Wise GM (fantasy gm), Big Reece, and Kodie, not from routines (routines are roughly 20%). Weekly reset is Sunday at 12:57 PM ET. Three routine cuts are on the table: social poster's X post slot from about 14 runs a week to daily; Wise GM's fantasy-email-digest to Tuesday, Thursday, and Sunday only; injury desk merge of the Sunday 8 AM and 1 PM sheets. Say which to make, and whether Grok Bot should ask those bots or you'll change them in each bot's routine list", you: true, asOf: "Nov 22", key: "usage-cuts" },
       { text: "MNP Slice B PRD still awaiting your lock (last noted Oct 15)", you: true, asOf: "Oct 15" },
+      { text: "Money Talks: merge the older draft into the live catalog card, or clear it", you: true, asOf: "Oct 11" },
     ],
     projects: [
-      { name: "Usage", detail: "5.4% of this week's limit used as of Nov 1, 8 PM ET; resets Sun Nov 8, 12:57 PM ET (one-time reminder set). Routines total about 7%; github scout's discovery is the biggest at 2%. Last week ran out before the reset", asOf: "Nov 1" },
-      { name: "Usage and plan review", detail: "Usage by bot (Kodie 31%, Que 15%, Big Reece 15%; every routine 2% or less) plus SuperGrok vs The X Subscription Premium, which bundles Cursor Pro and cloud agents at the same $30", asOf: "Oct 30" },
+      { name: "Usage", detail: "Most usage is direct chats with Wise GM (fantasy gm), Big Reece, and Kodie; routines are roughly 20%. Weekly reset Sunday 12:57 PM ET. SuperGrok includes Grok Bot usage on the Cursor Free plan. Three routine-cut suggestions from the Nov 22 review are waiting on your pick", asOf: "Nov 22" },
+      { name: "Usage and plan review", detail: "Nov 22 review: chats with Wise GM, Big Reece, and Kodie dominate; routines are about 20%. Plan is Cursor Free with included Grok Bot usage from SuperGrok. Reset Sunday 12:57 PM ET", asOf: "Nov 22" },
       { name: "Proactive check-ins", detail: "Periodic background sweeps; last note to you was the Vault tip", asOf: "Oct 24" },
       { name: "Money Talks card", detail: "Live in the product catalog since Oct 8", asOf: "Oct 11" },
     ],
@@ -28,25 +28,25 @@ const AGENTS = [
     initials: "BR",
     role: "Deep research and competitive analysis",
     zone: "Front office",
-    lastSeen: "Nov 2",
+    lastSeen: "Nov 23",
     items: [
-      { text: "Pick a niche fork for public speaking: deadline owner, freeze vs polish, self-serve vs school vs L&D seat", you: true, asOf: "Oct 28" },
+      { text: "Weekly grants and AI funding scan was last scheduled for Mon Nov 9 around 9 AM ET; that date has passed. Confirm the last scan result and the next run date", you: false, asOf: "Nov 9" },
       { text: "Start/sit v2: say whether Big Reece should try a v2 that starts from expert consensus and only nudges it with Vegas lines and injury news, with its own holdout test before Kodie builds anything (v1 showed no edge)", you: true, asOf: "Nov 2", key: "v2-call" },
-      { text: "Next weekly grants and AI funding scan, Mon Nov 9 around 9 AM ET", you: false, asOf: "Nov 2" },
+      { text: "Pick a niche fork for public speaking: deadline owner, freeze vs polish, self-serve vs school vs L&D seat", you: true, asOf: "Oct 28" },
     ],
     projects: [
+      { name: "Office dashboard", detail: "Public page at https://gibgitgib.github.io/grok-office/ (repo GibGitGib/grok-office). The weekday 8 AM and 1 PM ET auto-refresh routine is paused. Linear is the source of truth so any harness can update the dashboard by writing to Linear", asOf: "Nov 23" },
+      { name: "Grants tracker", detail: "Nov 2 scan: new Firebase #BuildHybridAI ($10K, Nov 9 to 30), Kiroween 2026 (AWS, closes Dec 4) and FinTech Innovation Lab NY (Nov 25); Stellar SCF #46 moved up to Nov 9. Top fits: Firebase, Mozilla Human-Scale AI (Nov 20), Kiroween", asOf: "Nov 2" },
       { name: "Start/sit v1 backtest", detail: "Done Nov 2: tuned on 2021-23, scored on 2024-25 with FFPC scoring over 6,361 close calls. v1 hit 51.3% vs consensus 52.7% and pure Vegas 51.4%, so no edge and no build. Files in /workspace/fantasy/backtest/; Vision Guy checked the method", asOf: "Nov 2" },
-      { name: "Office dashboard", detail: "This Page; auto-refresh weekdays around 8 AM and 1 PM ET. Two saved themes since Oct 30 (Arcade x Isometric default, Isometric) with wider desk spacing", asOf: "Oct 30" },
-      { name: "Fantasy app MVP direction", detail: "Curated rankings, a chat bot and a deterministic start/sit formula (v1); judged by its own misses over time, not by agreeing with experts", asOf: "Oct 30" },
       { name: "Dynasty rankings benchmark list", detail: "Expert and creator sources for 1QB full PPR (FantasyCalc, DynastyProcess, Sleeper, DLF, ETR, PFF and more); KTC is manual-only under its terms", asOf: "Oct 30" },
+      { name: "Fantasy app MVP direction", detail: "Curated rankings, a chat bot and a deterministic start/sit formula (v1); judged by its own misses over time, not by agreeing with experts", asOf: "Oct 30" },
       { name: "Kids' bilingual apps rundown", detail: "Delivered: no true Duolingo for young kids; live, responsive talk is what works; three openings for a voice-first builder", asOf: "Oct 30" },
       { name: "Agent evals guide", detail: "Tips, videos, books and a fill-in template for each agent's pass/fail checks; offered to fill it in for social writer first", asOf: "Oct 29" },
+      { name: "Healthcare APIs and virtual assistants", detail: "Two briefs: developer access and VA app landscape", asOf: "Oct 28" },
       { name: "Public-speaking apps landscape", detail: "Brief delivered: painkiller vs vitamin, white space, methods", asOf: "Oct 28" },
       { name: "Social-anxiety apps landscape", detail: "Brief delivered: single-use vs wellness bundles", asOf: "Oct 28" },
-      { name: "Healthcare APIs and virtual assistants", detail: "Two briefs: developer access and VA app landscape", asOf: "Oct 28" },
       { name: "Trip-planner news API shortlist", detail: "Phase 7.5 shortlist for Que", asOf: "Oct 28" },
       { name: "Tev1 feature ideas", detail: "Ideas for the CTSL catalog", asOf: "Oct 25" },
-      { name: "Grants tracker", detail: "Nov 2 scan: new Firebase #BuildHybridAI ($10K, Nov 9 to 30), Kiroween 2026 (AWS, closes Dec 4) and FinTech Innovation Lab NY (Nov 25); Stellar SCF #46 moved up to Nov 9. Top fits: Firebase, Mozilla Human-Scale AI (Nov 20), Kiroween", asOf: "Nov 2" },
     ],
   },
   {
@@ -55,13 +55,13 @@ const AGENTS = [
     initials: "Q",
     role: "Product lead: PRDs and PASS calls",
     zone: "Build pod",
-    lastSeen: "Oct 29",
+    lastSeen: "Oct 30",
     items: [
-      { text: "Vacay redesign: let Kodie screenshot the deployed R1/R2 previews, either by approving the 10-minute Vercel consent link, opening the previews while signed in, or okaying 23-hour share links", you: true, asOf: "Oct 29", key: "vercel-previews" },
-      { text: "Vacay Events: say \"lock it\" on the Phase 9 Events plan v0.2 (Ticketmaster via a server function, multi-seller See tickets button, StubHub hidden until approved)", you: true, asOf: "Oct 30" },
       { text: "HiveMind Harness: say \"yes, A first, then B\". A is about 15 to 30 min of Kodie's work; B is 1 to 2 days of coding, 3 to 5 days on the calendar with reviews; nothing starts until you pick", you: true, asOf: "Oct 30", key: "harness-order" },
-      { text: "Custom Harness: the help email for the Request help link (still a placeholder)", you: true, asOf: "Oct 22" },
+      { text: "Vacay Events: say \"lock it\" on the Phase 9 Events plan v0.2 (Ticketmaster via a server function, multi-seller See tickets button, StubHub hidden until approved)", you: true, asOf: "Oct 30" },
+      { text: "Vacay redesign: let Kodie screenshot the deployed R1/R2 previews, either by approving the 10-minute Vercel consent link, opening the previews while signed in, or okaying 23-hour share links", you: true, asOf: "Oct 29", key: "vercel-previews" },
       { text: "Cut the PRD unlock for sandbox + agent computer, with Vision Guy's six safety nits, once you pick the order", you: false, asOf: "Oct 28" },
+      { text: "Custom Harness: the help email for the Request help link (still a placeholder)", you: true, asOf: "Oct 22" },
     ],
     projects: [
       { name: "Vacay Events plan v0.2", detail: "docs/phase-9-events/PRD.md at f31d917; empty searches say \"No events found\", samples only on no key or errors; awaiting your lock", asOf: "Oct 30" },
@@ -78,20 +78,20 @@ const AGENTS = [
     zone: "Build pod",
     lastSeen: "Nov 2",
     items: [
-      { text: "Vacay redesign: let Kodie screenshot the deployed R1/R2 previews, either by approving the 10-minute Vercel consent link, opening the previews while signed in, or okaying 23-hour share links", you: true, asOf: "Oct 29", key: "vercel-previews" },
-      { text: "Vacay Events: get a free Ticketmaster developer key and send it to Kodie in your 1:1 chat (about 5 min of Kodie's time to set); apply to Impact (Ticketmaster affiliate) and StubHub's affiliate program whenever you're ready", you: true, asOf: "Oct 30" },
       { text: "HiveMind Harness: say \"yes, A first, then B\". A is about 15 to 30 min of Kodie's work; B is 1 to 2 days of coding, 3 to 5 days on the calendar with reviews; nothing starts until you pick", you: true, asOf: "Oct 30", key: "harness-order" },
-      { text: "Give a clear yes to set DATABASE_URL on the live HandyMan API on Vercel; Kodie can likely do it through your connectors, no sign-in needed", you: true, asOf: "Oct 29" },
       { text: "Retake every R1, R2 and Events screenshot from the deployed previews once Vercel access is sorted (about 20 min)", you: false, asOf: "Oct 30" },
+      { text: "Vacay Events: get a free Ticketmaster developer key and send it to Kodie in your 1:1 chat (about 5 min of Kodie's time to set); apply to Impact (Ticketmaster affiliate) and StubHub's affiliate program whenever you're ready", you: true, asOf: "Oct 30" },
+      { text: "Give a clear yes to set DATABASE_URL on the live HandyMan API on Vercel; Kodie can likely do it through your connectors, no sign-in needed", you: true, asOf: "Oct 29" },
+      { text: "Vacay redesign: let Kodie screenshot the deployed R1/R2 previews, either by approving the 10-minute Vercel consent link, opening the previews while signed in, or okaying 23-hour share links", you: true, asOf: "Oct 29", key: "vercel-previews" },
       { text: "Bug 2: add a ?loadError=1 force state and deployed screenshots for the Events/Settings error banner", you: false, asOf: "Oct 28" },
       { text: "Slice brief: supervised profile + ctsl-sandbox + agent computer + spawn workers (holding for Que's stamp)", you: false, asOf: "Oct 28" },
     ],
     projects: [
       { name: "Dynasty trade grader v0", detail: "Built Nov 2 in about 3 minutes at /workspace/fantasy/trade_value/; 8 of 8 tests pass, reads rankings only. Graded the Tate offer as a push that leans decline (6%)", asOf: "Nov 2" },
-      { name: "Vacay Events build", detail: "events/ticketmaster at 9a92f88 on sample data, soft PASS from Vision Guy; share-link fixes so a big trip never makes a broken link; main and live site untouched", asOf: "Oct 30" },
-      { name: "Vacay redesign R1 + R2", detail: "Built on redesign/weekends-calendar (latest 2ec49cf, outage link behind ?debug); previews live behind Vercel login; main and production untouched", asOf: "Oct 29" },
       { name: "HiveMind Harness build", detail: "Tightened estimates: A 15 to 30 min, B 1 to 2 days of coding. Rootless Podman looks possible on the shared computer but isn't proven yet", asOf: "Oct 30" },
+      { name: "Vacay Events build", detail: "events/ticketmaster at 9a92f88 on sample data, soft PASS from Vision Guy; share-link fixes so a big trip never makes a broken link; main and live site untouched", asOf: "Oct 30" },
       { name: "Subframe Motion connector", detail: "Installed and connected for animation examples", asOf: "Oct 29" },
+      { name: "Vacay redesign R1 + R2", detail: "Built on redesign/weekends-calendar (latest 2ec49cf, outage link behind ?debug); previews live behind Vercel login; main and production untouched", asOf: "Oct 29" },
       { name: "Vacay Planner Phase 7.5 fixes", detail: "Calendar reshoot and live Alerts proof; closed", asOf: "Oct 28" },
     ],
   },
@@ -152,7 +152,7 @@ const AGENTS = [
     initials: "CC",
     role: "Drafts catalog cards for GibGitGib repos",
     zone: "Signal loop pod",
-    lastSeen: "Oct 29",
+    lastSeen: "Oct 30",
     items: [
       { text: "Say yes to a card-gap pass and a tag refresh on thin cards, as a PR to product-catalog", you: true, asOf: "Oct 28" },
     ],
@@ -186,7 +186,7 @@ const AGENTS = [
     initials: "UA",
     role: "Adoption assessor for the signal loop",
     zone: "Signal loop pod",
-    lastSeen: "Oct 31",
+    lastSeen: "Nov 2",
     items: [
       { text: "Assess each scout handoff batch against the catalog", you: false, asOf: "Oct 31" },
     ],
@@ -234,8 +234,8 @@ const AGENTS = [
     items: [],
     projects: [
       { name: "Holiday spending post", detail: "@AskJennyRich post; you approved posting it Fri night as a one-time exception to the weekday slots", asOf: "Oct 30" },
-      { name: "Weekend planner post", detail: "Approved in the we-voice and handed to social poster", asOf: "Oct 20" },
       { name: "Post library", detail: "LinkedIn and Instagram versions filed until those accounts exist", asOf: "Oct 20" },
+      { name: "Weekend planner post", detail: "Approved in the we-voice and handed to social poster", asOf: "Oct 20" },
     ],
   },
   {
@@ -261,8 +261,8 @@ const AGENTS = [
     lastSeen: "Oct 30",
     items: [],
     projects: [
-      { name: "Redesign room", detail: "Template 2 picked; R1 + R2 previews built, waiting on deployed screenshots before your sign-off", asOf: "Oct 29" },
       { name: "Events room talk", detail: "Ticketmaster is the widest free event source but rarely gives prices; SeatGeek dropped prices; you chose Ticketmaster plus affiliates and room for StubHub", asOf: "Oct 30" },
+      { name: "Redesign room", detail: "Template 2 picked; R1 + R2 previews built, waiting on deployed screenshots before your sign-off", asOf: "Oct 29" },
       { name: "Working demo", detail: "Sent a short demo clip of the trip planner", asOf: "Sep 14" },
     ],
   },
@@ -272,26 +272,26 @@ const AGENTS = [
     initials: "FG",
     role: "Runs your fantasy football teams like a business",
     zone: "Projects wing",
-    lastSeen: "Nov 2",
+    lastSeen: "Nov 7",
     items: [
-      { text: "Trade grader: say whether fantasy gm should queue the next phase with Kodie, putting 2027 1st-round picks on your board (prd builder estimates about 60 min of Kodie's machine time; Kodie should confirm), with the adjustments after that (about 75 min)", you: true, asOf: "Nov 2" },
-      { text: "Co-manager invites: send your league co-manager invites to fantasygm@mail.grokbot.com so fantasy gm can accept them (roster moves only after your yes, no trades)", you: true, asOf: "Nov 2" },
-      { text: "KeepTradeCut files: say yes to delete the scraped ktc_*.json pulls (its terms ban scraping); they're still on disk", you: true, asOf: "Oct 30" },
-      { text: "Start/sit v2: say whether Big Reece should try a v2 that starts from expert consensus and only nudges it with Vegas lines and injury news, with its own holdout test before Kodie builds anything (v1 showed no edge)", you: true, asOf: "Nov 2", key: "v2-call" },
-      { text: "Grade any trade you send or receive against your rankings when it shows up in the fantasy mail (no status alerts, per your Nov 2 ask)", you: false, asOf: "Nov 2" },
       { text: "Accept co-manager invites as they arrive at its new inbox; ESPN and Yahoo may need an account made with that address", you: false, asOf: "Nov 2" },
+      { text: "Co-manager invites: send your league co-manager invites to fantasygm@mail.grokbot.com so fantasy gm can accept them (roster moves only after your yes, no trades)", you: true, asOf: "Nov 2" },
+      { text: "Grade any trade you send or receive against your rankings when it shows up in the fantasy mail (no status alerts, per your Nov 2 ask)", you: false, asOf: "Nov 2" },
+      { text: "Start/sit v2: say whether Big Reece should try a v2 that starts from expert consensus and only nudges it with Vegas lines and injury news, with its own holdout test before Kodie builds anything (v1 showed no edge)", you: true, asOf: "Nov 2", key: "v2-call" },
+      { text: "Trade grader: say whether fantasy gm should queue the next phase with Kodie, putting 2027 1st-round picks on your board (prd builder estimates about 60 min of Kodie's machine time; Kodie should confirm), with the adjustments after that (about 75 min)", you: true, asOf: "Nov 2" },
+      { text: "KeepTradeCut files: say yes to delete the scraped ktc_*.json pulls (its terms ban scraping); they're still on disk", you: true, asOf: "Oct 30" },
     ],
     projects: [
-      { name: "Trade grader v0", detail: "Plan from prd builder, built by Kodie Nov 2. Tate offer (give Downs and Shough, get Tate) grades as a push that leans decline: 1.13 vs 1.06 mid 1sts after the 2-for-1 discount; no adjustments yet", asOf: "Nov 2" },
+      { name: "Homegrown Rankings Page", detail: "Core Tech Homegrown Rankings 2026 and dynasty 151-300 now live together in the private GibGitGib/fantasy-sherpas repo. https://fantasy-sherpas.vercel.app returned 200 as of Nov 7", asOf: "Nov 7" },
+      { name: "Daily fantasy mail digest", detail: "Nov 2: 7 FFPC emails; the #397 Tate offer (Downs and Shough for C. Tate) is yours and pending; fantasy gm says it fits your rankings (Tate #51 vs #100 and #110)", asOf: "Nov 2" },
       { name: "Own inbox", detail: "fantasygm@mail.grokbot.com claimed Nov 2 for league sign-ups, codes and league mail; sends only with your ok", asOf: "Nov 2" },
       { name: "Rankings handoff", detail: "Paused player-ranking-sets Nov 2 at 8:59 AM ET; ranking game is now the only writer for the rankings folder", asOf: "Nov 2" },
-      { name: "League onboarding", detail: "5 leagues: 3 FFPC dynasty, ESPN The Saltmines, Yahoo Comeback SZN; payouts saved, ESPN trade deadline Nov 4 noon ET", asOf: "Oct 29" },
-      { name: "Check-ins", detail: "Tue 10 AM waivers + business report, Thu 6 AM drops and results, Sun 8 AM bids and 11:45 AM lineup, game-night and holiday checks; every move needs your yes", asOf: "Oct 29" },
-      { name: "Rankings engine", detail: "Blend is now FantasyCalc, DynastyCalc and Fantasy Trade Target (KTC dropped); plain full-PPR and TE-premium versions from the same answers; rosters.json written for all 5 leagues", asOf: "Oct 30" },
-      { name: "Daily fantasy mail digest", detail: "Nov 2: 7 FFPC emails; the #397 Tate offer (Downs and Shough for C. Tate) is yours and pending; fantasy gm says it fits your rankings (Tate #51 vs #100 and #110)", asOf: "Nov 2" },
-      { name: "Player ranking game", detail: "Dynasty top 300 fully hand-ranked Nov 1: quiz 2 done, then ranks 151-300 set by position on a drag-to-rank page. The check-in now runs once a day around 11 PM ET and only sends a drag page when a range needs another look", asOf: "Nov 1" },
-      { name: "Homegrown Rankings Page", detail: "Core Tech Homegrown Rankings 2026, refreshed Nov 1 around 9:56 PM ET with your QB, RB, WR and TE orders for 151-300", asOf: "Nov 1" },
+      { name: "Trade grader v0", detail: "Plan from prd builder, built by Kodie Nov 2. Tate offer (give Downs and Shough, get Tate) grades as a push that leans decline: 1.13 vs 1.06 mid 1sts after the 2-for-1 discount; no adjustments yet", asOf: "Nov 2" },
       { name: "Decision log", detail: "Set up Oct 30: every start/sit call saves its inputs, formula version (v0-judgment) and lock rows; post-lock news flagged Tuesdays. No snapshots logged yet", asOf: "Nov 1" },
+      { name: "Player ranking game", detail: "Dynasty top 300 fully hand-ranked Nov 1: quiz 2 done, then ranks 151-300 set by position on a drag-to-rank page. The check-in now runs once a day around 11 PM ET and only sends a drag page when a range needs another look", asOf: "Nov 1" },
+      { name: "Rankings engine", detail: "Blend is now FantasyCalc, DynastyCalc and Fantasy Trade Target (KTC dropped); plain full-PPR and TE-premium versions from the same answers; rosters.json written for all 5 leagues", asOf: "Oct 30" },
+      { name: "Check-ins", detail: "Tue 10 AM waivers + business report, Thu 6 AM drops and results, Sun 8 AM bids and 11:45 AM lineup, game-night and holiday checks; every move needs your yes", asOf: "Oct 29" },
+      { name: "League onboarding", detail: "5 leagues: 3 FFPC dynasty, ESPN The Saltmines, Yahoo Comeback SZN; payouts saved, ESPN trade deadline Nov 4 noon ET", asOf: "Oct 29" },
     ],
   },
   {
@@ -300,9 +300,9 @@ const AGENTS = [
     initials: "ID",
     role: "Player news and injury sheet for fantasy gm",
     zone: "Projects wing",
-    lastSeen: "Oct 31",
+    lastSeen: "Nov 7",
     items: [
-      { text: "No sheet since Sat 5:44 PM ET (Sunday's runs didn't produce one); next scheduled run Mon Nov 2 around 5:40 PM ET", you: false, asOf: "Nov 1" },
+      { text: "Week 9 injury flags were relayed after the Nov 2 snapshot. Current sheet status was not re-checked for this Linear import", you: false, asOf: "Nov 7" },
     ],
     projects: [
       { name: "Latest sheet", detail: "Sat Oct 31: Egbuka OUT, Hall and Pickens questionable, Randall activated, Harvey to IR, Monangai OUT for Monday night", asOf: "Oct 31" },
@@ -333,29 +333,29 @@ const AGENTS = [
     lastSeen: "None recorded",
     items: [],
     projects: [],
-  },
+  }
 ];
 
 const ROOMS = [
   {
     name: "HiveMind Harness",
-    members: ["Que", "Kodie", "Vision Guy", "Big Reece"],
+    members: ["Que","Kodie","Vision Guy","Big Reece"],
     topic: "Waiting on your A-then-B yes. New rule: every decision ask lists Kodie's real build time (A 15 to 30 min; B 1 to 2 days coding, 3 to 5 days total)",
     asOf: "Oct 30",
   },
   {
     name: "signal loop",
-    members: ["signal scout", "github scout", "upgrade analyst", "prd builder", "catalog card", "dr eggbot"],
+    members: ["signal scout","github scout","upgrade analyst","prd builder","catalog card","dr eggbot"],
     topic: "Nov 2: X lane is back on; 5 repos handed today (1 from X, 4 from GitHub search), verdicts pending. Minilytics PRD and hit-rate plan still await your call",
     asOf: "Nov 2",
   },
   {
     name: "Fantasy Football",
-    members: ["fantasy gm", "Big Reece", "Vision Guy", "dr eggbot"],
+    members: ["fantasy gm","Big Reece","Vision Guy","dr eggbot"],
     topic: "v1 backtest done: 51.3% vs consensus 52.7%, so no build. Start/sit calls start from consensus for now; Big Reece's v2 (nudge consensus, own holdout) waits on your call",
     asOf: "Nov 2",
-  },
+  }
 ];
 
 const ABOUT =
-  "Built from each agent's recent sessions, the Custom Harness PRD v0.6.2, and research files, refreshed Nov 2, 2026, 1:10 PM ET. Statuses are recorded, not live; the page refreshes itself weekdays around 8 AM and 1 PM ET, or ask Big Reece. Project Myopic has no recorded sessions. injury desk and ranking game joined the office on Oct 30; the Vacay Planner room now lives on the Vacay Planner desk so the conference room keeps three tables.";
+  "Built from Linear as the source of truth (CoreTech Labs team), plus each agent's recorded sessions. The public page at https://gibgitgib.github.io/grok-office/ is a read-only view regenerated from Linear. Some desk items still reflect early-November notes where nothing newer was confirmed. Statuses are recorded, not live; any harness can update an item by writing to Linear. Project Myopic has no recorded sessions. injury desk and ranking game joined the office on Oct 30; the Vacay Planner room now lives on the Vacay Planner desk so the conference room keeps three tables.";

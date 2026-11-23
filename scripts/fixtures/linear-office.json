@@ -1,0 +1,1234 @@
+{
+  "asOf": "Nov 23, 2026, 2:10 PM ET",
+  "issues": [
+    {
+      "id": "COR-68",
+      "title": "Check the drag-and-drop ranking setup before sending anything; its 3-a-day trio runs are paused since you've moved to drag pages",
+      "description": "Check the drag-and-drop ranking setup before sending anything; its 3-a-day trio runs are paused since you've moved to drag pages\n\n---\n\noffice-key: ranking/check-the-drag-and-drop-ranking-setup-before-sending-anythin\noffice-agents: ranking\noffice-as-of: Nov 2\noffice-you: false",
+      "url": "https://linear.app/coretech-labs/issue/COR-68/check-the-drag-and-drop-ranking-setup-before-sending-anything-its-3-a",
+      "createdAt": "2026-11-23T19:06:14.490Z",
+      "updatedAt": "2026-11-23T19:06:14.490Z",
+      "assignee": null,
+      "status": "In Progress",
+      "labels": [
+        "ranking game",
+        "Projects wing",
+        "Office"
+      ]
+    },
+    {
+      "id": "COR-67",
+      "title": "Week 9 injury flags were relayed after the Nov 2 snapshot. Current sheet status was not re-checked for this Linear import",
+      "description": "Week 9 injury flags were relayed after the Nov 2 snapshot. Current sheet status was not re-checked for this Linear import\n\n---\n\noffice-key: injury/week-9-injury-flags-were-relayed-after-the-nov-2-snapshot-cu\noffice-agents: injury\noffice-as-of: Nov 7\noffice-you: false",
+      "url": "https://linear.app/coretech-labs/issue/COR-67/week-9-injury-flags-were-relayed-after-the-nov-2-snapshot-current",
+      "createdAt": "2026-11-23T19:06:14.195Z",
+      "updatedAt": "2026-11-23T19:06:14.195Z",
+      "assignee": null,
+      "status": "In Progress",
+      "labels": [
+        "injury desk",
+        "Projects wing",
+        "Office"
+      ]
+    },
+    {
+      "id": "COR-66",
+      "title": "Accept co-manager invites as they arrive at its new inbox; ESPN and Yahoo may need an account made with that address",
+      "description": "Accept co-manager invites as they arrive at its new inbox; ESPN and Yahoo may need an account made with that address\n\n---\n\noffice-key: fantasy/accept-co-manager-invites-as-they-arrive-at-its-new-inbox-es\noffice-agents: fantasy\noffice-as-of: Nov 2\noffice-you: false",
+      "url": "https://linear.app/coretech-labs/issue/COR-66/accept-co-manager-invites-as-they-arrive-at-its-new-inbox-espn-and",
+      "createdAt": "2026-11-23T19:06:10.105Z",
+      "updatedAt": "2026-11-23T19:06:10.105Z",
+      "assignee": null,
+      "status": "In Progress",
+      "labels": [
+        "fantasy gm",
+        "Projects wing",
+        "Office"
+      ]
+    },
+    {
+      "id": "COR-65",
+      "title": "Grade any trade you send or receive against your rankings when it shows up in the fantasy mail (no status alerts, per your Nov 2 ask)",
+      "description": "Grade any trade you send or receive against your rankings when it shows up in the fantasy mail (no status alerts, per your Nov 2 ask)\n\n---\n\noffice-key: fantasy/grade-any-trade-you-send-or-receive-against-your-rankings-wh\noffice-agents: fantasy\noffice-as-of: Nov 2\noffice-you: false",
+      "url": "https://linear.app/coretech-labs/issue/COR-65/grade-any-trade-you-send-or-receive-against-your-rankings-when-it",
+      "createdAt": "2026-11-23T19:06:08.672Z",
+      "updatedAt": "2026-11-23T19:06:08.672Z",
+      "assignee": null,
+      "status": "In Progress",
+      "labels": [
+        "fantasy gm",
+        "Projects wing",
+        "Office"
+      ]
+    },
+    {
+      "id": "COR-64",
+      "title": "KeepTradeCut files: say yes to delete the scraped ktc_*.json pulls (its terms ban scraping); they're still on disk",
+      "description": "KeepTradeCut files: say yes to delete the scraped ktc\\_\\*.json pulls (its terms ban scraping); they're still on disk\n\n---\n\noffice-key: fantasy/keeptradecut-files-say-yes-to-delete-the-scraped-ktc-json-pu\noffice-agents: fantasy\noffice-as-of: Oct 30\noffice-you: true",
+      "url": "https://linear.app/coretech-labs/issue/COR-64/keeptradecut-files-say-yes-to-delete-the-scraped-ktc-json-pulls-its",
+      "createdAt": "2026-11-23T19:06:08.003Z",
+      "updatedAt": "2026-11-23T19:06:08.003Z",
+      "assignee": "Corey Tech",
+      "status": "Todo",
+      "labels": [
+        "fantasy gm",
+        "Projects wing",
+        "Office"
+      ]
+    },
+    {
+      "id": "COR-63",
+      "title": "Co-manager invites: send your league co-manager invites to fantasygm@mail.grokbot.com so fantasy gm can accept them (roster moves only after your yes, no trades)",
+      "description": "Co-manager invites: send your league co-manager invites to [fantasygm@mail.grokbot.com](<mailto:fantasygm@mail.grokbot.com>) so fantasy gm can accept them (roster moves only after your yes, no trades)\n\n---\n\noffice-key: fantasy/co-manager-invites-send-your-league-co-manager-invites-to-fa\noffice-agents: fantasy\noffice-as-of: Nov 2\noffice-you: true",
+      "url": "https://linear.app/coretech-labs/issue/COR-63/co-manager-invites-send-your-league-co-manager-invites-to",
+      "createdAt": "2026-11-23T19:06:06.526Z",
+      "updatedAt": "2026-11-23T19:06:06.526Z",
+      "assignee": "Corey Tech",
+      "status": "Todo",
+      "labels": [
+        "fantasy gm",
+        "Projects wing",
+        "Office"
+      ]
+    },
+    {
+      "id": "COR-62",
+      "title": "Trade grader: say whether fantasy gm should queue the next phase with Kodie, putting 2027 1st-round picks on your board (prd builder estimates about 60 min of Kodie's machine time; Kodie should confirm), with the adjustments after that (...",
+      "description": "Trade grader: say whether fantasy gm should queue the next phase with Kodie, putting 2027 1st-round picks on your board (prd builder estimates about 60 min of Kodie's machine time; Kodie should confirm), with the adjustments after that (about 75 min)\n\n---\n\noffice-key: fantasy/trade-grader-say-whether-fantasy-gm-should-queue-the-next-ph\noffice-agents: fantasy\noffice-as-of: Nov 2\noffice-you: true",
+      "url": "https://linear.app/coretech-labs/issue/COR-62/trade-grader-say-whether-fantasy-gm-should-queue-the-next-phase-with",
+      "createdAt": "2026-11-23T19:06:05.121Z",
+      "updatedAt": "2026-11-23T19:06:05.121Z",
+      "assignee": "Corey Tech",
+      "status": "Todo",
+      "labels": [
+        "fantasy gm",
+        "Projects wing",
+        "Office"
+      ]
+    },
+    {
+      "id": "COR-61",
+      "title": "Remotion (remotion-dev/remotion, 69.9k stars, from a post you shared) passes every gate; say whether to send it to upgrade analyst, or a short list of motion picks (Theatre.js, anime.js, drei) instead. Either counts toward today's cap of...",
+      "description": "Remotion (remotion-dev/remotion, 69.9k stars, from a post you shared) passes every gate; say whether to send it to upgrade analyst, or a short list of motion picks (Theatre.js, anime.js, drei) instead. Either counts toward today's cap of 5. Note: Remotion's license makes larger companies pay\n\n---\n\noffice-key: signal/remotion-remotion-dev-remotion-69-9k-stars-from-a-post-you-s\noffice-agents: signal\noffice-as-of: Nov 2\noffice-you: true",
+      "url": "https://linear.app/coretech-labs/issue/COR-61/remotion-remotion-devremotion-699k-stars-from-a-post-you-shared-passes",
+      "createdAt": "2026-11-23T19:06:03.885Z",
+      "updatedAt": "2026-11-23T19:06:03.885Z",
+      "assignee": "Corey Tech",
+      "status": "Todo",
+      "labels": [
+        "signal scout",
+        "Signal loop pod",
+        "Office"
+      ]
+    },
+    {
+      "id": "COR-60",
+      "title": "Assess each scout handoff batch against the catalog",
+      "description": "Assess each scout handoff batch against the catalog\n\n---\n\noffice-key: upgrade/assess-each-scout-handoff-batch-against-the-catalog\noffice-agents: upgrade\noffice-as-of: Oct 31\noffice-you: false",
+      "url": "https://linear.app/coretech-labs/issue/COR-60/assess-each-scout-handoff-batch-against-the-catalog",
+      "createdAt": "2026-11-23T19:05:48.418Z",
+      "updatedAt": "2026-11-23T19:05:48.418Z",
+      "assignee": null,
+      "status": "In Progress",
+      "labels": [
+        "upgrade analyst",
+        "Signal loop pod",
+        "Office"
+      ]
+    },
+    {
+      "id": "COR-59",
+      "title": "Transcript healthcheck: say whether dr eggbot should pause it; it has come up empty every run because the logs it reads stopped updating Oct 24",
+      "description": "Transcript healthcheck: say whether dr eggbot should pause it; it has come up empty every run because the logs it reads stopped updating Oct 24\n\n---\n\noffice-key: eggbot/transcript-healthcheck-say-whether-dr-eggbot-should-pause-it\noffice-agents: eggbot\noffice-as-of: Nov 2\noffice-you: true",
+      "url": "https://linear.app/coretech-labs/issue/COR-59/transcript-healthcheck-say-whether-dr-eggbot-should-pause-it-it-has",
+      "createdAt": "2026-11-23T19:05:46.412Z",
+      "updatedAt": "2026-11-23T19:05:46.412Z",
+      "assignee": "Corey Tech",
+      "status": "Todo",
+      "labels": [
+        "dr eggbot",
+        "Signal loop pod",
+        "Office"
+      ]
+    },
+    {
+      "id": "COR-58",
+      "title": "Draft the keyword cut once you pick the signal-loop plan",
+      "description": "Draft the keyword cut once you pick the signal-loop plan\n\n---\n\noffice-key: eggbot/draft-the-keyword-cut-once-you-pick-the-signal-loop-plan\noffice-agents: eggbot\noffice-as-of: Oct 28\noffice-you: false",
+      "url": "https://linear.app/coretech-labs/issue/COR-58/draft-the-keyword-cut-once-you-pick-the-signal-loop-plan",
+      "createdAt": "2026-11-23T19:05:46.154Z",
+      "updatedAt": "2026-11-23T19:05:46.154Z",
+      "assignee": null,
+      "status": "In Progress",
+      "labels": [
+        "dr eggbot",
+        "Signal loop pod",
+        "Office"
+      ]
+    },
+    {
+      "id": "COR-57",
+      "title": "Say yes to a card-gap pass and a tag refresh on thin cards, as a PR to product-catalog",
+      "description": "Say yes to a card-gap pass and a tag refresh on thin cards, as a PR to product-catalog\n\n---\n\noffice-key: catalog/say-yes-to-a-card-gap-pass-and-a-tag-refresh-on-thin-cards-a\noffice-agents: catalog\noffice-as-of: Oct 28\noffice-you: true",
+      "url": "https://linear.app/coretech-labs/issue/COR-57/say-yes-to-a-card-gap-pass-and-a-tag-refresh-on-thin-cards-as-a-pr-to",
+      "createdAt": "2026-11-23T19:05:42.767Z",
+      "updatedAt": "2026-11-23T19:05:42.767Z",
+      "assignee": "Corey Tech",
+      "status": "Todo",
+      "labels": [
+        "catalog card",
+        "Signal loop pod",
+        "Office"
+      ]
+    },
+    {
+      "id": "COR-56",
+      "title": "Signal loop: pick the hit-rate plan (A prune, B prune + restore X, C prune + trending slots, or A then B); room leans A then B",
+      "description": "Signal loop: pick the hit-rate plan (A prune, B prune + restore X, C prune + trending slots, or A then B); room leans A then B\n\n---\n\noffice-key: prd/signal-loop-pick-the-hit-rate-plan-a-prune-b-prune-restore-x\noffice-agents: prd\noffice-as-of: Oct 28\noffice-you: true",
+      "url": "https://linear.app/coretech-labs/issue/COR-56/signal-loop-pick-the-hit-rate-plan-a-prune-b-prune-restore-x-c-prune",
+      "createdAt": "2026-11-23T19:05:41.608Z",
+      "updatedAt": "2026-11-23T19:05:41.608Z",
+      "assignee": "Corey Tech",
+      "status": "Todo",
+      "labels": [
+        "prd builder",
+        "Signal loop pod",
+        "Office"
+      ]
+    },
+    {
+      "id": "COR-55",
+      "title": "Minilytics PRD (prototype): approve or pass on self-hosted revenue attribution for agency-portfolio, then waitlist-factory and the landing page; quick DNS check on coretechlabs.app before step 3",
+      "description": "Minilytics PRD (prototype): approve or pass on self-hosted revenue attribution for agency-portfolio, then waitlist-factory and the landing page; quick DNS check on [coretechlabs.app](<http://coretechlabs.app>) before step 3\n\n---\n\noffice-key: prd/minilytics-prd-prototype-approve-or-pass-on-self-hosted-reve\noffice-agents: prd\noffice-as-of: Oct 29\noffice-you: true",
+      "url": "https://linear.app/coretech-labs/issue/COR-55/minilytics-prd-prototype-approve-or-pass-on-self-hosted-revenue",
+      "createdAt": "2026-11-23T19:05:40.155Z",
+      "updatedAt": "2026-11-23T19:05:40.155Z",
+      "assignee": "Corey Tech",
+      "status": "Todo",
+      "labels": [
+        "prd builder",
+        "Signal loop pod",
+        "Office"
+      ]
+    },
+    {
+      "id": "COR-54",
+      "title": "Soft-PASS the sandbox + agent computer unlock draft once the six safety nits are stamped",
+      "description": "Soft-PASS the sandbox + agent computer unlock draft once the six safety nits are stamped\n\n---\n\noffice-key: vg/soft-pass-the-sandbox-agent-computer-unlock-draft-once-the-s\noffice-agents: vg\noffice-as-of: Oct 28\noffice-you: false",
+      "url": "https://linear.app/coretech-labs/issue/COR-54/soft-pass-the-sandbox-agent-computer-unlock-draft-once-the-six-safety",
+      "createdAt": "2026-11-23T19:05:39.045Z",
+      "updatedAt": "2026-11-23T19:05:39.045Z",
+      "assignee": null,
+      "status": "In Progress",
+      "labels": [
+        "Vision Guy",
+        "Build pod",
+        "Office"
+      ]
+    },
+    {
+      "id": "COR-53",
+      "title": "Hard PASS Vacay R1, R2 and Events only once screenshots come from the deployed previews",
+      "description": "Hard PASS Vacay R1, R2 and Events only once screenshots come from the deployed previews\n\n---\n\noffice-key: vg/hard-pass-vacay-r1-r2-and-events-only-once-screenshots-come-\noffice-agents: vg\noffice-as-of: Oct 30\noffice-you: false",
+      "url": "https://linear.app/coretech-labs/issue/COR-53/hard-pass-vacay-r1-r2-and-events-only-once-screenshots-come-from-the",
+      "createdAt": "2026-11-23T19:05:38.570Z",
+      "updatedAt": "2026-11-23T19:05:38.570Z",
+      "assignee": null,
+      "status": "In Progress",
+      "labels": [
+        "Vision Guy",
+        "Build pod",
+        "Office"
+      ]
+    },
+    {
+      "id": "COR-52",
+      "title": "Motion designer: say yes to its quick demo of the send-button animation (three options side by side), or name the first screen to animate and how it should feel",
+      "description": "Motion designer: say yes to its quick demo of the send-button animation (three options side by side), or name the first screen to animate and how it should feel\n\n---\n\noffice-key: motion/motion-designer-say-yes-to-its-quick-demo-of-the-send-button\noffice-agents: motion\noffice-as-of: Oct 29\noffice-you: true",
+      "url": "https://linear.app/coretech-labs/issue/COR-52/motion-designer-say-yes-to-its-quick-demo-of-the-send-button-animation",
+      "createdAt": "2026-11-23T19:05:37.331Z",
+      "updatedAt": "2026-11-23T19:05:37.331Z",
+      "assignee": "Corey Tech",
+      "status": "Todo",
+      "labels": [
+        "motion designer",
+        "Build pod",
+        "Office"
+      ]
+    },
+    {
+      "id": "COR-51",
+      "title": "Slice brief: supervised profile + ctsl-sandbox + agent computer + spawn workers (holding for Que's stamp)",
+      "description": "Slice brief: supervised profile + ctsl-sandbox + agent computer + spawn workers (holding for Que's stamp)\n\n---\n\noffice-key: kodie/slice-brief-supervised-profile-ctsl-sandbox-agent-computer-s\noffice-agents: kodie\noffice-as-of: Oct 28\noffice-you: false",
+      "url": "https://linear.app/coretech-labs/issue/COR-51/slice-brief-supervised-profile-ctsl-sandbox-agent-computer-spawn",
+      "createdAt": "2026-11-23T19:05:25.072Z",
+      "updatedAt": "2026-11-23T19:05:25.072Z",
+      "assignee": null,
+      "status": "In Progress",
+      "labels": [
+        "Kodie",
+        "Build pod",
+        "Office"
+      ]
+    },
+    {
+      "id": "COR-50",
+      "title": "Bug 2: add a ?loadError=1 force state and deployed screenshots for the Events/Settings error banner",
+      "description": "Bug 2: add a ?loadError=1 force state and deployed screenshots for the Events/Settings error banner\n\n---\n\noffice-key: kodie/bug-2-add-a-loaderror-1-force-state-and-deployed-screenshots\noffice-agents: kodie\noffice-as-of: Oct 28\noffice-you: false",
+      "url": "https://linear.app/coretech-labs/issue/COR-50/bug-2-add-a-loaderror1-force-state-and-deployed-screenshots-for-the",
+      "createdAt": "2026-11-23T19:05:24.883Z",
+      "updatedAt": "2026-11-23T19:05:24.883Z",
+      "assignee": null,
+      "status": "In Progress",
+      "labels": [
+        "Kodie",
+        "Build pod",
+        "Office"
+      ]
+    },
+    {
+      "id": "COR-49",
+      "title": "Retake every R1, R2 and Events screenshot from the deployed previews once Vercel access is sorted (about 20 min)",
+      "description": "Retake every R1, R2 and Events screenshot from the deployed previews once Vercel access is sorted (about 20 min)\n\n---\n\noffice-key: kodie/retake-every-r1-r2-and-events-screenshot-from-the-deployed-p\noffice-agents: kodie\noffice-as-of: Oct 30\noffice-you: false",
+      "url": "https://linear.app/coretech-labs/issue/COR-49/retake-every-r1-r2-and-events-screenshot-from-the-deployed-previews",
+      "createdAt": "2026-11-23T19:05:23.452Z",
+      "updatedAt": "2026-11-23T19:05:23.452Z",
+      "assignee": null,
+      "status": "In Progress",
+      "labels": [
+        "Kodie",
+        "Build pod",
+        "Office"
+      ]
+    },
+    {
+      "id": "COR-48",
+      "title": "Give a clear yes to set DATABASE_URL on the live HandyMan API on Vercel; Kodie can likely do it through your connectors, no sign-in needed",
+      "description": "Give a clear yes to set DATABASE_URL on the live HandyMan API on Vercel; Kodie can likely do it through your connectors, no sign-in needed\n\n---\n\noffice-key: kodie/give-a-clear-yes-to-set-database-url-on-the-live-handyman-ap\noffice-agents: kodie\noffice-as-of: Oct 29\noffice-you: true",
+      "url": "https://linear.app/coretech-labs/issue/COR-48/give-a-clear-yes-to-set-database-url-on-the-live-handyman-api-on",
+      "createdAt": "2026-11-23T19:05:22.893Z",
+      "updatedAt": "2026-11-23T19:05:22.893Z",
+      "assignee": "Corey Tech",
+      "status": "Todo",
+      "labels": [
+        "Kodie",
+        "Build pod",
+        "Office"
+      ]
+    },
+    {
+      "id": "COR-47",
+      "title": "Vacay Events: get a free Ticketmaster developer key and send it to Kodie in your 1:1 chat (about 5 min of Kodie's time to set); apply to Impact (Ticketmaster affiliate) and StubHub's affiliate program whenever you're ready",
+      "description": "Vacay Events: get a free Ticketmaster developer key and send it to Kodie in your 1:1 chat (about 5 min of Kodie's time to set); apply to Impact (Ticketmaster affiliate) and StubHub's affiliate program whenever you're ready\n\n---\n\noffice-key: kodie/vacay-events-get-a-free-ticketmaster-developer-key-and-send-\noffice-agents: kodie\noffice-as-of: Oct 30\noffice-you: true",
+      "url": "https://linear.app/coretech-labs/issue/COR-47/vacay-events-get-a-free-ticketmaster-developer-key-and-send-it-to",
+      "createdAt": "2026-11-23T19:05:21.703Z",
+      "updatedAt": "2026-11-23T19:05:21.703Z",
+      "assignee": "Corey Tech",
+      "status": "Todo",
+      "labels": [
+        "Kodie",
+        "Build pod",
+        "Office"
+      ]
+    },
+    {
+      "id": "COR-46",
+      "title": "Cut the PRD unlock for sandbox + agent computer, with Vision Guy's six safety nits, once you pick the order",
+      "description": "Cut the PRD unlock for sandbox + agent computer, with Vision Guy's six safety nits, once you pick the order\n\n---\n\noffice-key: que/cut-the-prd-unlock-for-sandbox-agent-computer-with-vision-gu\noffice-agents: que\noffice-as-of: Oct 28\noffice-you: false",
+      "url": "https://linear.app/coretech-labs/issue/COR-46/cut-the-prd-unlock-for-sandbox-agent-computer-with-vision-guys-six",
+      "createdAt": "2026-11-23T19:05:21.229Z",
+      "updatedAt": "2026-11-23T19:05:21.229Z",
+      "assignee": null,
+      "status": "In Progress",
+      "labels": [
+        "Que",
+        "Build pod",
+        "Office"
+      ]
+    },
+    {
+      "id": "COR-45",
+      "title": "HiveMind Harness: say \"yes, A first, then B\". A is about 15 to 30 min of Kodie's work; B is 1 to 2 days of coding, 3 to 5 days on the calendar with reviews; nothing starts until you pick",
+      "description": "HiveMind Harness: say \"yes, A first, then B\". A is about 15 to 30 min of Kodie's work; B is 1 to 2 days of coding, 3 to 5 days on the calendar with reviews; nothing starts until you pick\n\n---\n\noffice-key: shared/harness-order\noffice-agents: que,kodie\noffice-as-of: Oct 30\noffice-you: true\noffice-item-key: harness-order",
+      "url": "https://linear.app/coretech-labs/issue/COR-45/hivemind-harness-say-yes-a-first-then-b-a-is-about-15-to-30-min-of",
+      "createdAt": "2026-11-23T19:05:19.427Z",
+      "updatedAt": "2026-11-23T19:05:19.427Z",
+      "assignee": "Corey Tech",
+      "status": "Todo",
+      "labels": [
+        "Kodie",
+        "Que",
+        "Build pod",
+        "Office"
+      ]
+    },
+    {
+      "id": "COR-44",
+      "title": "Custom Harness: the help email for the Request help link (still a placeholder)",
+      "description": "Custom Harness: the help email for the Request help link (still a placeholder)\n\n---\n\noffice-key: que/custom-harness-the-help-email-for-the-request-help-link-stil\noffice-agents: que\noffice-as-of: Oct 22\noffice-you: true",
+      "url": "https://linear.app/coretech-labs/issue/COR-44/custom-harness-the-help-email-for-the-request-help-link-still-a",
+      "createdAt": "2026-11-23T19:05:18.620Z",
+      "updatedAt": "2026-11-23T19:05:18.620Z",
+      "assignee": "Corey Tech",
+      "status": "Todo",
+      "labels": [
+        "Que",
+        "Build pod",
+        "Office"
+      ]
+    },
+    {
+      "id": "COR-43",
+      "title": "Vacay Events: say \"lock it\" on the Phase 9 Events plan v0.2 (Ticketmaster via a server function, multi-seller See tickets button, StubHub hidden until approved)",
+      "description": "Vacay Events: say \"lock it\" on the Phase 9 Events plan v0.2 (Ticketmaster via a server function, multi-seller See tickets button, StubHub hidden until approved)\n\n---\n\noffice-key: que/vacay-events-say-lock-it-on-the-phase-9-events-plan-v0-2-tic\noffice-agents: que\noffice-as-of: Oct 30\noffice-you: true",
+      "url": "https://linear.app/coretech-labs/issue/COR-43/vacay-events-say-lock-it-on-the-phase-9-events-plan-v02-ticketmaster",
+      "createdAt": "2026-11-23T19:05:03.679Z",
+      "updatedAt": "2026-11-23T19:05:03.679Z",
+      "assignee": "Corey Tech",
+      "status": "Todo",
+      "labels": [
+        "Que",
+        "Build pod",
+        "Office"
+      ]
+    },
+    {
+      "id": "COR-42",
+      "title": "Vacay redesign: let Kodie screenshot the deployed R1/R2 previews, either by approving the 10-minute Vercel consent link, opening the previews while signed in, or okaying 23-hour share links",
+      "description": "Vacay redesign: let Kodie screenshot the deployed R1/R2 previews, either by approving the 10-minute Vercel consent link, opening the previews while signed in, or okaying 23-hour share links\n\n---\n\noffice-key: shared/vercel-previews\noffice-agents: que,kodie\noffice-as-of: Oct 29\noffice-you: true\noffice-item-key: vercel-previews",
+      "url": "https://linear.app/coretech-labs/issue/COR-42/vacay-redesign-let-kodie-screenshot-the-deployed-r1r2-previews-either",
+      "createdAt": "2026-11-23T19:05:03.475Z",
+      "updatedAt": "2026-11-23T19:05:03.475Z",
+      "assignee": "Corey Tech",
+      "status": "Todo",
+      "labels": [
+        "Kodie",
+        "Que",
+        "Build pod",
+        "Office"
+      ]
+    },
+    {
+      "id": "COR-41",
+      "title": "Weekly grants and AI funding scan was last scheduled for Mon Nov 9 around 9 AM ET; that date has passed. Confirm the last scan result and the next run date",
+      "description": "Weekly grants and AI funding scan was last scheduled for Mon Nov 9 around 9 AM ET; that date has passed. Confirm the last scan result and the next run date\n\n---\n\noffice-key: reece/weekly-grants-and-ai-funding-scan-was-last-scheduled-for-mon\noffice-agents: reece\noffice-as-of: Nov 9\noffice-you: false",
+      "url": "https://linear.app/coretech-labs/issue/COR-41/weekly-grants-and-ai-funding-scan-was-last-scheduled-for-mon-nov-9",
+      "createdAt": "2026-11-23T19:05:01.440Z",
+      "updatedAt": "2026-11-23T19:05:01.440Z",
+      "assignee": null,
+      "status": "In Progress",
+      "labels": [
+        "Big Reece",
+        "Front office",
+        "Office"
+      ]
+    },
+    {
+      "id": "COR-40",
+      "title": "Start/sit v2: say whether Big Reece should try a v2 that starts from expert consensus and only nudges it with Vegas lines and injury news, with its own holdout test before Kodie builds anything (v1 showed no edge)",
+      "description": "Start/sit v2: say whether Big Reece should try a v2 that starts from expert consensus and only nudges it with Vegas lines and injury news, with its own holdout test before Kodie builds anything (v1 showed no edge)\n\n---\n\noffice-key: shared/v2-call\noffice-agents: reece,fantasy\noffice-as-of: Nov 2\noffice-you: true\noffice-item-key: v2-call",
+      "url": "https://linear.app/coretech-labs/issue/COR-40/startsit-v2-say-whether-big-reece-should-try-a-v2-that-starts-from",
+      "createdAt": "2026-11-23T19:04:59.454Z",
+      "updatedAt": "2026-11-23T19:04:59.454Z",
+      "assignee": "Corey Tech",
+      "status": "Todo",
+      "labels": [
+        "fantasy gm",
+        "Big Reece",
+        "Office"
+      ]
+    },
+    {
+      "id": "COR-39",
+      "title": "MNP Slice B PRD still awaiting your lock (last noted Oct 15)",
+      "description": "MNP Slice B PRD still awaiting your lock (last noted Oct 15)\n\n---\n\noffice-key: grok/mnp-slice-b-prd-still-awaiting-your-lock-last-noted-oct-15\noffice-agents: grok\noffice-as-of: Oct 15\noffice-you: true",
+      "url": "https://linear.app/coretech-labs/issue/COR-39/mnp-slice-b-prd-still-awaiting-your-lock-last-noted-oct-15",
+      "createdAt": "2026-11-23T19:04:58.402Z",
+      "updatedAt": "2026-11-23T19:04:58.402Z",
+      "assignee": "Corey Tech",
+      "status": "Todo",
+      "labels": [
+        "Grok Bot",
+        "Front office",
+        "Office"
+      ]
+    },
+    {
+      "id": "COR-38",
+      "title": "Pick a niche fork for public speaking: deadline owner, freeze vs polish, self-serve vs school vs L&D seat",
+      "description": "Pick a niche fork for public speaking: deadline owner, freeze vs polish, self-serve vs school vs L&D seat\n\n---\n\noffice-key: reece/pick-a-niche-fork-for-public-speaking-deadline-owner-freeze-\noffice-agents: reece\noffice-as-of: Oct 28\noffice-you: true",
+      "url": "https://linear.app/coretech-labs/issue/COR-38/pick-a-niche-fork-for-public-speaking-deadline-owner-freeze-vs-polish",
+      "createdAt": "2026-11-23T19:04:58.169Z",
+      "updatedAt": "2026-11-23T19:04:58.169Z",
+      "assignee": "Corey Tech",
+      "status": "Todo",
+      "labels": [
+        "Big Reece",
+        "Front office",
+        "Office"
+      ]
+    },
+    {
+      "id": "COR-37",
+      "title": "Money Talks: merge the older draft into the live catalog card, or clear it",
+      "description": "Money Talks: merge the older draft into the live catalog card, or clear it\n\n---\n\noffice-key: grok/money-talks-merge-the-older-draft-into-the-live-catalog-card\noffice-agents: grok\noffice-as-of: Oct 11\noffice-you: true",
+      "url": "https://linear.app/coretech-labs/issue/COR-37/money-talks-merge-the-older-draft-into-the-live-catalog-card-or-clear",
+      "createdAt": "2026-11-23T19:04:56.927Z",
+      "updatedAt": "2026-11-23T19:04:56.927Z",
+      "assignee": "Corey Tech",
+      "status": "Todo",
+      "labels": [
+        "Grok Bot",
+        "Front office",
+        "Office"
+      ]
+    },
+    {
+      "id": "COR-36",
+      "title": "Usage review (Nov 22): most usage is from direct chats with Wise GM (fantasy gm), Big Reece, and Kodie, not from routines (routines are roughly 20%). Weekly reset is Sunday at 12:57 PM ET. Three routine cuts are on the table: social post...",
+      "description": "Usage review (Nov 22): most usage is from direct chats with Wise GM (fantasy gm), Big Reece, and Kodie, not from routines (routines are roughly 20%). Weekly reset is Sunday at 12:57 PM ET. Three routine cuts are on the table: social poster's X post slot from about 14 runs a week to daily; Wise GM's fantasy-email-digest to Tuesday, Thursday, and Sunday only; injury desk merge of the Sunday 8 AM and 1 PM sheets. Say which to make, and whether Grok Bot should ask those bots or you'll change them in each bot's routine list\n\n---\noffice-key: grok/usage-cuts\noffice-agents: grok\noffice-as-of: Nov 22\noffice-you: true\noffice-item-key: usage-cuts\n",
+      "url": "https://linear.app/coretech-labs/issue/COR-36/usage-review-nov-22-most-usage-is-from-direct-chats-with-wise-gm",
+      "createdAt": "2026-11-23T19:04:55.846Z",
+      "updatedAt": "2026-11-23T19:04:55.846Z",
+      "assignee": "Corey Tech",
+      "status": "Todo",
+      "labels": [
+        "Grok Bot",
+        "Front office",
+        "Office"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "P-COR-77",
+      "name": "Office \u00b7 ranking game \u00b7 Takeover",
+      "description": "Done Nov 2 with your approval: now the only writer for the rankings folder. Dynasty top 300 is complete; redraft has only 4 answers so far\n\n---\n\noffice-project-key: ranking/takeover\noffice-agent: ranking\noffice-as-of: Nov 2\noffice-project-name: Takeover",
+      "url": "https://linear.app/coretech-labs/project/office-ranking-game-takeover-464cbdb9d684",
+      "updatedAt": "2026-11-23T19:04:37.259Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-76",
+      "name": "Office \u00b7 injury desk \u00b7 Run schedule",
+      "description": "About 20 min before each fantasy gm check-in, plus Sundays 11:35 AM ET for inactives and four holiday runs\n\n---\n\noffice-project-key: injury/run-schedule\noffice-agent: injury\noffice-as-of: Oct 30\noffice-project-name: Run schedule",
+      "url": "https://linear.app/coretech-labs/project/office-injury-desk-run-schedule-cab315903af3",
+      "updatedAt": "2026-11-23T19:04:36.616Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-75",
+      "name": "Office \u00b7 injury desk \u00b7 First sheet",
+      "description": "/workspace/fantasy/news/latest.md built 9:28 AM ET; no starters out yet, five FFPC #101 starters questionable\n\n---\n\noffice-project-key: injury/first-sheet\noffice-agent: injury\noffice-as-of: Oct 30\noffice-project-name: First sheet",
+      "url": "https://linear.app/coretech-labs/project/office-injury-desk-first-sheet-b7aae1238cf1",
+      "updatedAt": "2026-11-23T19:04:35.635Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-74",
+      "name": "Office \u00b7 injury desk \u00b7 Latest sheet",
+      "description": "Sat Oct 31: Egbuka OUT, Hall and Pickens questionable, Randall activated, Harvey to IR, Monangai OUT for Monday night\n\n---\n\noffice-project-key: injury/latest-sheet\noffice-agent: injury\noffice-as-of: Oct 31\noffice-project-name: Latest sheet",
+      "url": "https://linear.app/coretech-labs/project/office-injury-desk-latest-sheet-d8c600fee07f",
+      "updatedAt": "2026-11-23T19:04:34.534Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-73",
+      "name": "Office \u00b7 fantasy gm \u00b7 Decision log",
+      "description": "Set up Oct 30: every start/sit call saves its inputs, formula version (v0-judgment) and lock rows; post-lock news flagged Tuesdays. No snapshots logged yet\n\n---\n\noffice-project-key: fantasy/decision-log\noffice-agent: fantasy\noffice-as-of: Nov 1\noffice-project-name: Decision log",
+      "url": "https://linear.app/coretech-labs/project/office-fantasy-gm-decision-log-b2dd75b8dfb0",
+      "updatedAt": "2026-11-23T19:04:33.592Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-72",
+      "name": "Office \u00b7 fantasy gm \u00b7 Homegrown Rankings Page",
+      "description": "Core Tech Homegrown Rankings 2026 and dynasty 151-300 now live together in the private GibGitGib/fantasy-sherpas repo. [https://fantasy-sherpas.vercel.app](<https://fantasy-sherpas.vercel.app>) returned 200 as of Nov 7\n\n---\n\noffice-project-key: fantasy/homegrown-rankings-page\noffice-agent: fantasy\noffice-as-of: Nov 7\noffice-project-name: Homegrown Rankings Page",
+      "url": "https://linear.app/coretech-labs/project/office-fantasy-gm-homegrown-rankings-page-4d56fa74fdb9",
+      "updatedAt": "2026-11-23T19:04:33.323Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-71",
+      "name": "Office \u00b7 fantasy gm \u00b7 Player ranking game",
+      "description": "Dynasty top 300 fully hand-ranked Nov 1: quiz 2 done, then ranks 151-300 set by position on a drag-to-rank page. The check-in now runs once a day around 11 PM ET and only sends a drag page when a range needs another look\n\n---\n\noffice-project-key: fantasy/player-ranking-game\noffice-agent: fantasy\noffice-as-of: Nov 1\noffice-project-name: Player ranking game",
+      "url": "https://linear.app/coretech-labs/project/office-fantasy-gm-player-ranking-game-634a4e2506eb",
+      "updatedAt": "2026-11-23T19:04:31.752Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-70",
+      "name": "Office \u00b7 fantasy gm \u00b7 Daily fantasy mail digest",
+      "description": "Nov 2: 7 FFPC emails; the #397 Tate offer (Downs and Shough for C. Tate) is yours and pending; fantasy gm says it fits your rankings (Tate #51 vs #100 and #110)\n\n---\n\noffice-project-key: fantasy/daily-fantasy-mail-digest\noffice-agent: fantasy\noffice-as-of: Nov 2\noffice-project-name: Daily fantasy mail digest",
+      "url": "https://linear.app/coretech-labs/project/office-fantasy-gm-daily-fantasy-mail-digest-52a70382075e",
+      "updatedAt": "2026-11-23T19:04:31.478Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-69",
+      "name": "Office \u00b7 fantasy gm \u00b7 Rankings engine",
+      "description": "Blend is now FantasyCalc, DynastyCalc and Fantasy Trade Target (KTC dropped); plain full-PPR and TE-premium versions from the same answers; rosters.json written for all 5 leagues\n\n---\n\noffice-project-key: fantasy/rankings-engine\noffice-agent: fantasy\noffice-as-of: Oct 30\noffice-project-name: Rankings engine",
+      "url": "https://linear.app/coretech-labs/project/office-fantasy-gm-rankings-engine-4b19a76986b4",
+      "updatedAt": "2026-11-23T19:04:17.821Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-68",
+      "name": "Office \u00b7 fantasy gm \u00b7 Check-ins",
+      "description": "Tue 10 AM waivers + business report, Thu 6 AM drops and results, Sun 8 AM bids and 11:45 AM lineup, game-night and holiday checks; every move needs your yes\n\n---\n\noffice-project-key: fantasy/check-ins\noffice-agent: fantasy\noffice-as-of: Oct 29\noffice-project-name: Check-ins",
+      "url": "https://linear.app/coretech-labs/project/office-fantasy-gm-check-ins-2150f289ed65",
+      "updatedAt": "2026-11-23T19:04:16.137Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-67",
+      "name": "Office \u00b7 fantasy gm \u00b7 League onboarding",
+      "description": "5 leagues: 3 FFPC dynasty, ESPN The Saltmines, Yahoo Comeback SZN; payouts saved, ESPN trade deadline Nov 4 noon ET\n\n---\n\noffice-project-key: fantasy/league-onboarding\noffice-agent: fantasy\noffice-as-of: Oct 29\noffice-project-name: League onboarding",
+      "url": "https://linear.app/coretech-labs/project/office-fantasy-gm-league-onboarding-a53e5a62dca5",
+      "updatedAt": "2026-11-23T19:04:15.833Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-66",
+      "name": "Office \u00b7 fantasy gm \u00b7 Rankings handoff",
+      "description": "Paused player-ranking-sets Nov 2 at 8:59 AM ET; ranking game is now the only writer for the rankings folder\n\n---\n\noffice-project-key: fantasy/rankings-handoff\noffice-agent: fantasy\noffice-as-of: Nov 2\noffice-project-name: Rankings handoff",
+      "url": "https://linear.app/coretech-labs/project/office-fantasy-gm-rankings-handoff-dee5a0f94b79",
+      "updatedAt": "2026-11-23T19:04:14.570Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-65",
+      "name": "Office \u00b7 fantasy gm \u00b7 Own inbox",
+      "description": "[fantasygm@mail.grokbot.com](<mailto:fantasygm@mail.grokbot.com>) claimed Nov 2 for league sign-ups, codes and league mail; sends only with your ok\n\n---\n\noffice-project-key: fantasy/own-inbox\noffice-agent: fantasy\noffice-as-of: Nov 2\noffice-project-name: Own inbox",
+      "url": "https://linear.app/coretech-labs/project/office-fantasy-gm-own-inbox-15543df9b572",
+      "updatedAt": "2026-11-23T19:04:13.727Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-64",
+      "name": "Office \u00b7 fantasy gm \u00b7 Trade grader v0",
+      "description": "Plan from prd builder, built by Kodie Nov 2. Tate offer (give Downs and Shough, get Tate) grades as a push that leans decline: 1.13 vs 1.06 mid 1sts after the 2-for-1 discount; no adjustments yet\n\n---\n\noffice-project-key: fantasy/trade-grader-v0\noffice-agent: fantasy\noffice-as-of: Nov 2\noffice-project-name: Trade grader v0",
+      "url": "https://linear.app/coretech-labs/project/office-fantasy-gm-trade-grader-v0-8e7abba291a6",
+      "updatedAt": "2026-11-23T19:04:12.855Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-63",
+      "name": "Office \u00b7 Vacay Planner \u00b7 Working demo",
+      "description": "Sent a short demo clip of the trip planner\n\n---\n\noffice-project-key: vacay/working-demo\noffice-agent: vacay\noffice-as-of: Sep 14\noffice-project-name: Working demo",
+      "url": "https://linear.app/coretech-labs/project/office-vacay-planner-working-demo-7e5a711e3ff2",
+      "updatedAt": "2026-11-23T19:04:11.729Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-62",
+      "name": "Office \u00b7 Vacay Planner \u00b7 Events room talk",
+      "description": "Ticketmaster is the widest free event source but rarely gives prices; SeatGeek dropped prices; you chose Ticketmaster plus affiliates and room for StubHub\n\n---\n\noffice-project-key: vacay/events-room-talk\noffice-agent: vacay\noffice-as-of: Oct 30\noffice-project-name: Events room talk",
+      "url": "https://linear.app/coretech-labs/project/office-vacay-planner-events-room-talk-c1fd0daed399",
+      "updatedAt": "2026-11-23T19:04:10.770Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-61",
+      "name": "Office \u00b7 Vacay Planner \u00b7 Redesign room",
+      "description": "Template 2 picked; R1 + R2 previews built, waiting on deployed screenshots before your sign-off\n\n---\n\noffice-project-key: vacay/redesign-room\noffice-agent: vacay\noffice-as-of: Oct 29\noffice-project-name: Redesign room",
+      "url": "https://linear.app/coretech-labs/project/office-vacay-planner-redesign-room-5cfdc0b3113b",
+      "updatedAt": "2026-11-23T19:04:10.541Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-60",
+      "name": "Office \u00b7 social poster \u00b7 X post slot",
+      "description": "Back on since Oct 29 after your credit top-up; weekdays 9:40 AM and 12:40 PM ET, one paid call per approved post, no test calls\n\n---\n\noffice-project-key: poster/x-post-slot\noffice-agent: poster\noffice-as-of: Oct 29\noffice-project-name: X post slot",
+      "url": "https://linear.app/coretech-labs/project/office-social-poster-x-post-slot-3ff7a846ebfd",
+      "updatedAt": "2026-11-23T19:03:58.056Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-59",
+      "name": "Office \u00b7 social poster \u00b7 Weekend planner post",
+      "description": "Live on X at 9:44 AM ET, Oct 30\n\n---\n\noffice-project-key: poster/weekend-planner-post\noffice-agent: poster\noffice-as-of: Oct 30\noffice-project-name: Weekend planner post",
+      "url": "https://linear.app/coretech-labs/project/office-social-poster-weekend-planner-post-6ac66d2aa528",
+      "updatedAt": "2026-11-23T19:03:56.881Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-58",
+      "name": "Office \u00b7 social poster \u00b7 Holiday spending post",
+      "description": "Live on @AskJennyRich with its image at 9:43 PM ET, Oct 30 (one-time exception)\n\n---\n\noffice-project-key: poster/holiday-spending-post\noffice-agent: poster\noffice-as-of: Oct 30\noffice-project-name: Holiday spending post",
+      "url": "https://linear.app/coretech-labs/project/office-social-poster-holiday-spending-post-330fa42cad32",
+      "updatedAt": "2026-11-23T19:03:55.935Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-57",
+      "name": "Office \u00b7 social writer \u00b7 Post library",
+      "description": "LinkedIn and Instagram versions filed until those accounts exist\n\n---\n\noffice-project-key: writer/post-library\noffice-agent: writer\noffice-as-of: Oct 20\noffice-project-name: Post library",
+      "url": "https://linear.app/coretech-labs/project/office-social-writer-post-library-e48bdcc9a19a",
+      "updatedAt": "2026-11-23T19:03:54.874Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-56",
+      "name": "Office \u00b7 social writer \u00b7 Holiday spending post",
+      "description": "@AskJennyRich post; you approved posting it Fri night as a one-time exception to the weekday slots\n\n---\n\noffice-project-key: writer/holiday-spending-post\noffice-agent: writer\noffice-as-of: Oct 30\noffice-project-name: Holiday spending post",
+      "url": "https://linear.app/coretech-labs/project/office-social-writer-holiday-spending-post-a382b21aabfa",
+      "updatedAt": "2026-11-23T19:03:53.814Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-54",
+      "name": "Office \u00b7 github scout \u00b7 Daily discovery",
+      "description": "Nov 2: handed 4 repos from the search lane (dsh-superagent-prototype, pixelfx, eglantine, floorplan), which with signal scout's 1 fills today's cap of 5. Oct 31: handed 5 repos to upgrade analyst, all from the search lane. Oct 30: handed 5 repos (cap hit), all from the search lane; trending lane had nothing fresh\n\n---\n\noffice-project-key: github/daily-discovery\noffice-agent: github\noffice-as-of: Oct 30\noffice-project-name: Daily discovery",
+      "url": "https://linear.app/coretech-labs/project/office-github-scout-daily-discovery-c45804f65a57",
+      "updatedAt": "2026-11-23T19:03:53.522Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-55",
+      "name": "Office \u00b7 social writer \u00b7 Weekend planner post",
+      "description": "Approved in the we-voice and handed to social poster\n\n---\n\noffice-project-key: writer/weekend-planner-post\noffice-agent: writer\noffice-as-of: Oct 20\noffice-project-name: Weekend planner post",
+      "url": "https://linear.app/coretech-labs/project/office-social-writer-weekend-planner-post-c6d32ec00e2e",
+      "updatedAt": "2026-11-23T19:03:53.512Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-53",
+      "name": "Office \u00b7 signal scout \u00b7 X discovery lane",
+      "description": "Back on Nov 2 at your say-so: reads the home timeline through the signed-in X connection, 80-post cap, daily around 10:30 AM ET. Test run handed edge0-ai/audio8_tts (2,277 stars) to upgrade analyst\n\n---\n\noffice-project-key: signal/x-discovery-lane\noffice-agent: signal\noffice-as-of: Nov 2\noffice-project-name: X discovery lane",
+      "url": "https://linear.app/coretech-labs/project/office-signal-scout-x-discovery-lane-cdc5f2f206ba",
+      "updatedAt": "2026-11-23T19:03:51.676Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-52",
+      "name": "Office \u00b7 signal scout \u00b7 Manual post check",
+      "description": "Nov 2: checked a shared X post linking 22 repos; by the first-link rule Remotion is the one that counts; 20 of 22 would pass the star, keyword and dedupe gates. Nothing handed off yet\n\n---\n\noffice-project-key: signal/manual-post-check\noffice-agent: signal\noffice-as-of: Nov 2\noffice-project-name: Manual post check",
+      "url": "https://linear.app/coretech-labs/project/office-signal-scout-manual-post-check-36028bee5de7",
+      "updatedAt": "2026-11-23T19:03:39.038Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-51",
+      "name": "Office \u00b7 upgrade analyst \u00b7 Oct 29 batch",
+      "description": "5 repos: minilytics to prototype (sent to prd builder), calendar UI watch, 3 pass\n\n---\n\noffice-project-key: upgrade/oct-29-batch\noffice-agent: upgrade\noffice-as-of: Oct 29\noffice-project-name: Oct 29 batch",
+      "url": "https://linear.app/coretech-labs/project/office-upgrade-analyst-oct-29-batch-b9a9abcff3f2",
+      "updatedAt": "2026-11-23T19:03:37.754Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-50",
+      "name": "Office \u00b7 upgrade analyst \u00b7 Oct 30 batch",
+      "description": "5 repos (dsh-go, bla, print-my-profile-pic, totk-pc-recomp, nvzhuang), all pass\n\n---\n\noffice-project-key: upgrade/oct-30-batch\noffice-agent: upgrade\noffice-as-of: Oct 30\noffice-project-name: Oct 30 batch",
+      "url": "https://linear.app/coretech-labs/project/office-upgrade-analyst-oct-30-batch-39a53cce9a7b",
+      "updatedAt": "2026-11-23T19:03:37.259Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-49",
+      "name": "Office \u00b7 upgrade analyst \u00b7 Oct 31 batch",
+      "description": "5 repos: mika (watch, on-device assistant) and global-law (watch, medicare-navigator-pro), 3 pass; nothing sent to prd builder\n\n---\n\noffice-project-key: upgrade/oct-31-batch\noffice-agent: upgrade\noffice-as-of: Oct 31\noffice-project-name: Oct 31 batch",
+      "url": "https://linear.app/coretech-labs/project/office-upgrade-analyst-oct-31-batch-496b67cb61d2",
+      "updatedAt": "2026-11-23T19:03:36.480Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-48",
+      "name": "Office \u00b7 upgrade analyst \u00b7 Nov 2 queue",
+      "description": "audio8_tts (TTS repo) from signal scout plus 4 from github scout (dsh-superagent-prototype, pixelfx, eglantine, floorplan); no verdicts posted yet\n\n---\n\noffice-project-key: upgrade/nov-2-queue\noffice-agent: upgrade\noffice-as-of: Nov 2\noffice-project-name: Nov 2 queue",
+      "url": "https://linear.app/coretech-labs/project/office-upgrade-analyst-nov-2-queue-93b69c7dcdae",
+      "updatedAt": "2026-11-23T19:03:35.226Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-47",
+      "name": "Office \u00b7 dr eggbot \u00b7 No-match digest",
+      "description": "Oct 29: 4 repos, 3 pass and the calendar UI a watch\n\n---\n\noffice-project-key: eggbot/no-match-digest\noffice-agent: eggbot\noffice-as-of: Oct 29\noffice-project-name: No-match digest",
+      "url": "https://linear.app/coretech-labs/project/office-dr-eggbot-no-match-digest-4a8e1f2dbd01",
+      "updatedAt": "2026-11-23T19:03:34.566Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-46",
+      "name": "Office \u00b7 dr eggbot \u00b7 Motion designer bot",
+      "description": "Built and tuned: asks first, uses references, three options, asks for feedback\n\n---\n\noffice-project-key: eggbot/motion-designer-bot\noffice-agent: eggbot\noffice-as-of: Oct 29\noffice-project-name: Motion designer bot",
+      "url": "https://linear.app/coretech-labs/project/office-dr-eggbot-motion-designer-bot-526894d357bf",
+      "updatedAt": "2026-11-23T19:03:33.218Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-45",
+      "name": "Office \u00b7 dr eggbot \u00b7 fantasy gm bot",
+      "description": "Built Oct 29: gated start/sit and waiver moves plus a weekly league business report\n\n---\n\noffice-project-key: eggbot/fantasy-gm-bot\noffice-agent: eggbot\noffice-as-of: Oct 29\noffice-project-name: fantasy gm bot",
+      "url": "https://linear.app/coretech-labs/project/office-dr-eggbot-fantasy-gm-bot-a6250a496aff",
+      "updatedAt": "2026-11-23T19:03:32.259Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-44",
+      "name": "Office \u00b7 dr eggbot \u00b7 Fantasy helpers",
+      "description": "Built injury desk and ranking game on Oct 30 to take load off fantasy gm. In the room: every formula run saves its inputs, version and ranking so misses can be scored later; votes for Big Reece to own the v1 backtest\n\n---\n\noffice-project-key: eggbot/fantasy-helpers\noffice-agent: eggbot\noffice-as-of: Oct 30\noffice-project-name: Fantasy helpers",
+      "url": "https://linear.app/coretech-labs/project/office-dr-eggbot-fantasy-helpers-4657bcc72237",
+      "updatedAt": "2026-11-23T19:03:17.523Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-43",
+      "name": "Office \u00b7 catalog card \u00b7 New-repo watch",
+      "description": "83 repos, 66 cards; no new repos to draft; Micro-Assistant still empty\n\n---\n\noffice-project-key: catalog/new-repo-watch\noffice-agent: catalog\noffice-as-of: Oct 27\noffice-project-name: New-repo watch",
+      "url": "https://linear.app/coretech-labs/project/office-catalog-card-new-repo-watch-32a89b6887a5",
+      "updatedAt": "2026-11-23T19:03:15.978Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-42",
+      "name": "Office \u00b7 dr eggbot \u00b7 Weekly routine check",
+      "description": "Nov 2: got signal scout unpaused on the signed-in X connection and passed your rankings handoff to fantasy gm; Sunday's misses were the usage limit, all normal since\n\n---\n\noffice-project-key: eggbot/weekly-routine-check\noffice-agent: eggbot\noffice-as-of: Nov 2\noffice-project-name: Weekly routine check",
+      "url": "https://linear.app/coretech-labs/project/office-dr-eggbot-weekly-routine-check-7f4a459f8e09",
+      "updatedAt": "2026-11-23T19:03:15.064Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-41",
+      "name": "Office \u00b7 catalog card \u00b7 Landing repo check",
+      "description": "[coretechlabs.app](<http://coretechlabs.app>) confirmed served by GitHub Pages (Oct 30); a registrar DNS check is still advised before the minilytics script goes in\n\n---\n\noffice-project-key: catalog/landing-repo-check\noffice-agent: catalog\noffice-as-of: Oct 30\noffice-project-name: Landing repo check",
+      "url": "https://linear.app/coretech-labs/project/office-catalog-card-landing-repo-check-8242fd01c2c4",
+      "updatedAt": "2026-11-23T19:03:12.973Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-40",
+      "name": "Office \u00b7 prd builder \u00b7 Signal-loop PRDs",
+      "description": "2-per-day cap; almost nothing arrives as adopt\n\n---\n\noffice-project-key: prd/signal-loop-prds\noffice-agent: prd\noffice-as-of: Oct 28\noffice-project-name: Signal-loop PRDs",
+      "url": "https://linear.app/coretech-labs/project/office-prd-builder-signal-loop-prds-f38acea0ea72",
+      "updatedAt": "2026-11-23T19:03:12.113Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-39",
+      "name": "Office \u00b7 prd builder \u00b7 Minilytics PRD",
+      "description": "First prototype PRD in a while; covers PostHog's traffic side only, closest paid match is DataFast\n\n---\n\noffice-project-key: prd/minilytics-prd\noffice-agent: prd\noffice-as-of: Oct 30\noffice-project-name: Minilytics PRD",
+      "url": "https://linear.app/coretech-labs/project/office-prd-builder-minilytics-prd-c139f2b3cc93",
+      "updatedAt": "2026-11-23T19:03:10.904Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-38",
+      "name": "Office \u00b7 prd builder \u00b7 Dynasty trade-value PRD",
+      "description": "Nov 2 for fantasy gm: value curve, 2027 1sts as pick equivalents, anchor plus liquidation, capped adjustments; at /workspace/prd/dynasty-trade-value-prd.md\n\n---\n\noffice-project-key: prd/dynasty-trade-value-prd\noffice-agent: prd\noffice-as-of: Nov 2\noffice-project-name: Dynasty trade-value PRD",
+      "url": "https://linear.app/coretech-labs/project/office-prd-builder-dynasty-trade-value-prd-f45e0515b85b",
+      "updatedAt": "2026-11-23T19:03:09.995Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-37",
+      "name": "Office \u00b7 Vision Guy \u00b7 Vacay Planner Phase 7.5",
+      "description": "Judged closed on 967c6e5\n\n---\n\noffice-project-key: vg/vacay-planner-phase-7-5\noffice-agent: vg\noffice-as-of: Oct 28\noffice-project-name: Vacay Planner Phase 7.5",
+      "url": "https://linear.app/coretech-labs/project/office-vision-guy-vacay-planner-phase-75-6062d65557c9",
+      "updatedAt": "2026-11-23T19:03:09.662Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-36",
+      "name": "Office \u00b7 Vision Guy \u00b7 Custom Harness planning",
+      "description": "Stamped Fix/Test table-stakes slice; six safety nits for the draft\n\n---\n\noffice-project-key: vg/custom-harness-planning\noffice-agent: vg\noffice-as-of: Oct 28\noffice-project-name: Custom Harness planning",
+      "url": "https://linear.app/coretech-labs/project/office-vision-guy-custom-harness-planning-e4eb340422a3",
+      "updatedAt": "2026-11-23T19:02:57.440Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-35",
+      "name": "Office \u00b7 Vision Guy \u00b7 Ticketmaster API review",
+      "description": "Verdict: skip the TicketsData repo (README only, $499/mo, scraping risk); use the official Ticketmaster Discovery API\n\n---\n\noffice-project-key: vg/ticketmaster-api-review\noffice-agent: vg\noffice-as-of: Oct 29\noffice-project-name: Ticketmaster API review",
+      "url": "https://linear.app/coretech-labs/project/office-vision-guy-ticketmaster-api-review-ee4d596e5c1a",
+      "updatedAt": "2026-11-23T19:02:56.597Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-34",
+      "name": "Office \u00b7 Vision Guy \u00b7 Fantasy Football room",
+      "description": "Judge notes: agreement with experts isn't accuracy; one owner (ranking game) for the rankings folder; the v1 backtest needs one owner and must never tune and score on the same weeks\n\n---\n\noffice-project-key: vg/fantasy-football-room\noffice-agent: vg\noffice-as-of: Oct 30\noffice-project-name: Fantasy Football room",
+      "url": "https://linear.app/coretech-labs/project/office-vision-guy-fantasy-football-room-bf70052e0768",
+      "updatedAt": "2026-11-23T19:02:56.335Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-33",
+      "name": "Office \u00b7 Vision Guy \u00b7 Events code review",
+      "description": "Soft PASS on 9a92f88; required affiliate and Sponsored labels, honest no-results state, and a max-size share-link test\n\n---\n\noffice-project-key: vg/events-code-review\noffice-agent: vg\noffice-as-of: Oct 30\noffice-project-name: Events code review",
+      "url": "https://linear.app/coretech-labs/project/office-vision-guy-events-code-review-dc3a9d9a10a2",
+      "updatedAt": "2026-11-23T19:02:55.137Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-32",
+      "name": "Office \u00b7 Vision Guy \u00b7 v1 backtest review",
+      "description": "Nov 2: method checks out; v1 ties consensus rather than proven worse, its confidence numbers are off, and no edge claim or public FantasyPros data until v2 wins a holdout and the license is checked\n\n---\n\noffice-project-key: vg/v1-backtest-review\noffice-agent: vg\noffice-as-of: Nov 2\noffice-project-name: v1 backtest review",
+      "url": "https://linear.app/coretech-labs/project/office-vision-guy-v1-backtest-review-43ff71c717a3",
+      "updatedAt": "2026-11-23T19:02:53.760Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-31",
+      "name": "Office \u00b7 motion designer \u00b7 Onboarding",
+      "description": "Explained its range with a before-and-after; hands approved motion to Kodie. Earmarked for Vacay Phase 7.6 swipe-to-pack\n\n---\n\noffice-project-key: motion/onboarding\noffice-agent: motion\noffice-as-of: Oct 29\noffice-project-name: Onboarding",
+      "url": "https://linear.app/coretech-labs/project/office-motion-designer-onboarding-11883c33f5d0",
+      "updatedAt": "2026-11-23T19:02:52.361Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-30",
+      "name": "Office \u00b7 Kodie \u00b7 Vacay Planner Phase 7.5 fixes",
+      "description": "Calendar reshoot and live Alerts proof; closed\n\n---\n\noffice-project-key: kodie/vacay-planner-phase-7-5-fixes\noffice-agent: kodie\noffice-as-of: Oct 28\noffice-project-name: Vacay Planner Phase 7.5 fixes",
+      "url": "https://linear.app/coretech-labs/project/office-kodie-vacay-planner-phase-75-fixes-a34668bdbd20",
+      "updatedAt": "2026-11-23T19:02:51.720Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-29",
+      "name": "Office \u00b7 Kodie \u00b7 Subframe Motion connector",
+      "description": "Installed and connected for animation examples\n\n---\n\noffice-project-key: kodie/subframe-motion-connector\noffice-agent: kodie\noffice-as-of: Oct 29\noffice-project-name: Subframe Motion connector",
+      "url": "https://linear.app/coretech-labs/project/office-kodie-subframe-motion-connector-186673d1a32b",
+      "updatedAt": "2026-11-23T19:02:50.957Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-28",
+      "name": "Office \u00b7 Kodie \u00b7 HiveMind Harness build",
+      "description": "Tightened estimates: A 15 to 30 min, B 1 to 2 days of coding. Rootless Podman looks possible on the shared computer but isn't proven yet\n\n---\n\noffice-project-key: kodie/hivemind-harness-build\noffice-agent: kodie\noffice-as-of: Oct 30\noffice-project-name: HiveMind Harness build",
+      "url": "https://linear.app/coretech-labs/project/office-kodie-hivemind-harness-build-14d7542d85f9",
+      "updatedAt": "2026-11-23T19:02:35.873Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-27",
+      "name": "Office \u00b7 Kodie \u00b7 Vacay redesign R1 + R2",
+      "description": "Built on redesign/weekends-calendar (latest 2ec49cf, outage link behind ?debug); previews live behind Vercel login; main and production untouched\n\n---\n\noffice-project-key: kodie/vacay-redesign-r1-r2\noffice-agent: kodie\noffice-as-of: Oct 29\noffice-project-name: Vacay redesign R1 + R2",
+      "url": "https://linear.app/coretech-labs/project/office-kodie-vacay-redesign-r1-r2-c57244252be8",
+      "updatedAt": "2026-11-23T19:02:34.760Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-26",
+      "name": "Office \u00b7 Kodie \u00b7 Vacay Events build",
+      "description": "events/ticketmaster at 9a92f88 on sample data, soft PASS from Vision Guy; share-link fixes so a big trip never makes a broken link; main and live site untouched\n\n---\n\noffice-project-key: kodie/vacay-events-build\noffice-agent: kodie\noffice-as-of: Oct 30\noffice-project-name: Vacay Events build",
+      "url": "https://linear.app/coretech-labs/project/office-kodie-vacay-events-build-c37c0d35bdea",
+      "updatedAt": "2026-11-23T19:02:34.431Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-25",
+      "name": "Office \u00b7 Kodie \u00b7 Dynasty trade grader v0",
+      "description": "Built Nov 2 in about 3 minutes at /workspace/fantasy/trade_value/; 8 of 8 tests pass, reads rankings only. Graded the Tate offer as a push that leans decline (6%)\n\n---\n\noffice-project-key: kodie/dynasty-trade-grader-v0\noffice-agent: kodie\noffice-as-of: Nov 2\noffice-project-name: Dynasty trade grader v0",
+      "url": "https://linear.app/coretech-labs/project/office-kodie-dynasty-trade-grader-v0-7c44d5cadd67",
+      "updatedAt": "2026-11-23T19:02:32.565Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-24",
+      "name": "Office \u00b7 Que \u00b7 Custom Harness PRD v0.6.2",
+      "description": "HandyMan shell + small dsh plugins; ctsl-review at soft PASS; awaiting your lock\n\n---\n\noffice-project-key: que/custom-harness-prd-v0-6-2\noffice-agent: que\noffice-as-of: Oct 28\noffice-project-name: Custom Harness PRD v0.6.2",
+      "url": "https://linear.app/coretech-labs/project/office-que-custom-harness-prd-v062-fea4da02cea4",
+      "updatedAt": "2026-11-23T19:02:31.611Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-23",
+      "name": "Office \u00b7 Que \u00b7 Vacay Planner Phase 7.5",
+      "description": "Hard PASS on commit 967c6e5\n\n---\n\noffice-project-key: que/vacay-planner-phase-7-5\noffice-agent: que\noffice-as-of: Oct 28\noffice-project-name: Vacay Planner Phase 7.5",
+      "url": "https://linear.app/coretech-labs/project/office-que-vacay-planner-phase-75-22e3dcac5110",
+      "updatedAt": "2026-11-23T19:02:31.335Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-22",
+      "name": "Office \u00b7 Que \u00b7 Vacay redesign plan v0.3",
+      "description": "Locked on 7969f00: R1 calendar replaces the Weekends card stack, R2 Template 2 cream and green reskin, R3 production only after your sign-off; swipe-to-pack moved to Phase 7.6\n\n---\n\noffice-project-key: que/vacay-redesign-plan-v0-3\noffice-agent: que\noffice-as-of: Oct 29\noffice-project-name: Vacay redesign plan v0.3",
+      "url": "https://linear.app/coretech-labs/project/office-que-vacay-redesign-plan-v03-3f865fd577d8",
+      "updatedAt": "2026-11-23T19:02:30.433Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-21",
+      "name": "Office \u00b7 Que \u00b7 Vacay Events plan v0.2",
+      "description": "docs/phase-9-events/PRD.md at f31d917; empty searches say \"No events found\", samples only on no key or errors; awaiting your lock\n\n---\n\noffice-project-key: que/vacay-events-plan-v0-2\noffice-agent: que\noffice-as-of: Oct 30\noffice-project-name: Vacay Events plan v0.2",
+      "url": "https://linear.app/coretech-labs/project/office-que-vacay-events-plan-v02-bc1632f7834c",
+      "updatedAt": "2026-11-23T19:02:29.304Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-20",
+      "name": "Office \u00b7 Big Reece \u00b7 Grants tracker",
+      "description": "Nov 2 scan: new Firebase #BuildHybridAI ($10K, Nov 9 to 30), Kiroween 2026 (AWS, closes Dec 4) and FinTech Innovation Lab NY (Nov 25); Stellar SCF #46 moved up to Nov 9. Top fits: Firebase, Mozilla Human-Scale AI (Nov 20), Kiroween\n\n---\n\noffice-project-key: reece/grants-tracker\noffice-agent: reece\noffice-as-of: Nov 2\noffice-project-name: Grants tracker",
+      "url": "https://linear.app/coretech-labs/project/office-big-reece-grants-tracker-795775fc9d37",
+      "updatedAt": "2026-11-23T19:02:14.264Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-19",
+      "name": "Office \u00b7 Big Reece \u00b7 Trip-planner news API shortlist",
+      "description": "Phase 7.5 shortlist for Que\n\n---\n\noffice-project-key: reece/trip-planner-news-api-shortlist\noffice-agent: reece\noffice-as-of: Oct 28\noffice-project-name: Trip-planner news API shortlist",
+      "url": "https://linear.app/coretech-labs/project/office-big-reece-trip-planner-news-api-shortlist-375b7219ce26",
+      "updatedAt": "2026-11-23T19:02:14.094Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-18",
+      "name": "Office \u00b7 Big Reece \u00b7 Tev1 feature ideas",
+      "description": "Ideas for the CTSL catalog\n\n---\n\noffice-project-key: reece/tev1-feature-ideas\noffice-agent: reece\noffice-as-of: Oct 25\noffice-project-name: Tev1 feature ideas",
+      "url": "https://linear.app/coretech-labs/project/office-big-reece-tev1-feature-ideas-e554ea89c8e4",
+      "updatedAt": "2026-11-23T19:02:12.947Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-17",
+      "name": "Office \u00b7 Big Reece \u00b7 Social-anxiety apps landscape",
+      "description": "Brief delivered: single-use vs wellness bundles\n\n---\n\noffice-project-key: reece/social-anxiety-apps-landscape\noffice-agent: reece\noffice-as-of: Oct 28\noffice-project-name: Social-anxiety apps landscape",
+      "url": "https://linear.app/coretech-labs/project/office-big-reece-social-anxiety-apps-landscape-5971990f2433",
+      "updatedAt": "2026-11-23T19:02:10.706Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-16",
+      "name": "Office \u00b7 Big Reece \u00b7 Healthcare APIs and virtual assistants",
+      "description": "Two briefs: developer access and VA app landscape\n\n---\n\noffice-project-key: reece/healthcare-apis-and-virtual-assistants\noffice-agent: reece\noffice-as-of: Oct 28\noffice-project-name: Healthcare APIs and virtual assistants",
+      "url": "https://linear.app/coretech-labs/project/office-big-reece-healthcare-apis-and-virtual-assistants-1ea68cca5bfc",
+      "updatedAt": "2026-11-23T19:02:10.534Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-15",
+      "name": "Office \u00b7 Big Reece \u00b7 Agent evals guide",
+      "description": "Tips, videos, books and a fill-in template for each agent's pass/fail checks; offered to fill it in for social writer first\n\n---\n\noffice-project-key: reece/agent-evals-guide\noffice-agent: reece\noffice-as-of: Oct 29\noffice-project-name: Agent evals guide",
+      "url": "https://linear.app/coretech-labs/project/office-big-reece-agent-evals-guide-d0144e23ee7a",
+      "updatedAt": "2026-11-23T19:02:08.643Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-14",
+      "name": "Office \u00b7 Big Reece \u00b7 Public-speaking apps landscape",
+      "description": "Brief delivered: painkiller vs vitamin, white space, methods\n\n---\n\noffice-project-key: reece/public-speaking-apps-landscape\noffice-agent: reece\noffice-as-of: Oct 28\noffice-project-name: Public-speaking apps landscape",
+      "url": "https://linear.app/coretech-labs/project/office-big-reece-public-speaking-apps-landscape-242d0f0190a8",
+      "updatedAt": "2026-11-23T19:02:08.633Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-13",
+      "name": "Office \u00b7 Big Reece \u00b7 Kids' bilingual apps rundown",
+      "description": "Delivered: no true Duolingo for young kids; live, responsive talk is what works; three openings for a voice-first builder\n\n---\n\noffice-project-key: reece/kids-bilingual-apps-rundown\noffice-agent: reece\noffice-as-of: Oct 30\noffice-project-name: Kids' bilingual apps rundown",
+      "url": "https://linear.app/coretech-labs/project/office-big-reece-kids-bilingual-apps-rundown-da91ba12722c",
+      "updatedAt": "2026-11-23T19:02:06.849Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-12",
+      "name": "Office \u00b7 Big Reece \u00b7 Dynasty rankings benchmark list",
+      "description": "Expert and creator sources for 1QB full PPR (FantasyCalc, DynastyProcess, Sleeper, DLF, ETR, PFF and more); KTC is manual-only under its terms\n\n---\n\noffice-project-key: reece/dynasty-rankings-benchmark-list\noffice-agent: reece\noffice-as-of: Oct 30\noffice-project-name: Dynasty rankings benchmark list",
+      "url": "https://linear.app/coretech-labs/project/office-big-reece-dynasty-rankings-benchmark-list-c7f25e5d614b",
+      "updatedAt": "2026-11-23T19:01:47.572Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-11",
+      "name": "Office \u00b7 Big Reece \u00b7 Office dashboard",
+      "description": "Public page at [https://gibgitgib.github.io/grok-office/](<https://gibgitgib.github.io/grok-office/>) (repo GibGitGib/grok-office). The weekday 8 AM and 1 PM ET auto-refresh routine is paused. Linear is the source of truth so any harness can update the dashboard by writing to Linear\n\n---\n\noffice-project-key: reece/office-dashboard\noffice-agent: reece\noffice-as-of: Nov 23\noffice-project-name: Office dashboard",
+      "url": "https://linear.app/coretech-labs/project/office-big-reece-office-dashboard-6481a04ecbf1",
+      "updatedAt": "2026-11-23T19:01:47.449Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-10",
+      "name": "Office \u00b7 Grok Bot \u00b7 Money Talks card",
+      "description": "Live in the product catalog since Oct 8\n\n---\n\noffice-project-key: grok/money-talks-card\noffice-agent: grok\noffice-as-of: Oct 11\noffice-project-name: Money Talks card",
+      "url": "https://linear.app/coretech-labs/project/office-grok-bot-money-talks-card-62222f6a2047",
+      "updatedAt": "2026-11-23T19:01:46.893Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-9",
+      "name": "Office \u00b7 Big Reece \u00b7 Fantasy app MVP direction",
+      "description": "Curated rankings, a chat bot and a deterministic start/sit formula (v1); judged by its own misses over time, not by agreeing with experts\n\n---\n\noffice-project-key: reece/fantasy-app-mvp-direction\noffice-agent: reece\noffice-as-of: Oct 30\noffice-project-name: Fantasy app MVP direction",
+      "url": "https://linear.app/coretech-labs/project/office-big-reece-fantasy-app-mvp-direction-8d6c7e4a1ff6",
+      "updatedAt": "2026-11-23T19:01:45.562Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-8",
+      "name": "Office \u00b7 Big Reece \u00b7 Start/sit v1 backtest",
+      "description": "Done Nov 2: tuned on 2021-23, scored on 2024-25 with FFPC scoring over 6,361 close calls. v1 hit 51.3% vs consensus 52.7% and pure Vegas 51.4%, so no edge and no build. Files in /workspace/fantasy/backtest/; Vision Guy checked the method\n\n---\n\noffice-project-key: reece/start-sit-v1-backtest\noffice-agent: reece\noffice-as-of: Nov 2\noffice-project-name: Start/sit v1 backtest",
+      "url": "https://linear.app/coretech-labs/project/office-big-reece-startsit-v1-backtest-251eda58de84",
+      "updatedAt": "2026-11-23T19:01:43.759Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-7",
+      "name": "Office \u00b7 Grok Bot \u00b7 Proactive check-ins",
+      "description": "Periodic background sweeps; last note to you was the Vault tip\n\n---\n\noffice-project-key: grok/proactive-check-ins\noffice-agent: grok\noffice-as-of: Oct 24\noffice-project-name: Proactive check-ins",
+      "url": "https://linear.app/coretech-labs/project/office-grok-bot-proactive-check-ins-d42dd108dfde",
+      "updatedAt": "2026-11-23T19:01:43.055Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-6",
+      "name": "Office \u00b7 Grok Bot \u00b7 Usage and plan review",
+      "description": "Nov 22 review: chats with Wise GM, Big Reece, and Kodie dominate; routines are about 20%. Plan is Cursor Free with included Grok Bot usage from SuperGrok. Reset Sunday 12:57 PM ET\n\n---\n\noffice-project-key: grok/usage-and-plan-review\noffice-agent: grok\noffice-as-of: Nov 22\noffice-project-name: Usage and plan review",
+      "url": "https://linear.app/coretech-labs/project/office-grok-bot-usage-and-plan-review-a9310dce450a",
+      "updatedAt": "2026-11-23T19:01:40.359Z",
+      "labels": [
+        "Office"
+      ]
+    },
+    {
+      "id": "P-COR-5",
+      "name": "Office \u00b7 Grok Bot \u00b7 Usage",
+      "description": "Most usage is direct chats with Wise GM (fantasy gm), Big Reece, and Kodie; routines are roughly 20%. Weekly reset Sunday 12:57 PM ET. SuperGrok includes Grok Bot usage on the Cursor Free plan. Three routine-cut suggestions from the Nov 22 review are waiting on your pick\n\n---\n\noffice-project-key: grok/usage\noffice-agent: grok\noffice-as-of: Nov 22\noffice-project-name: Usage",
+      "url": "https://linear.app/coretech-labs/project/office-grok-bot-usage-7fe6f28d0262",
+      "updatedAt": "2026-11-23T19:01:39.317Z",
+      "labels": [
+        "Office"
+      ]
+    }
+  ]
+}

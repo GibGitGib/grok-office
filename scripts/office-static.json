@@ -1,0 +1,201 @@
+{
+  "zones": [
+    "Front office",
+    "Build pod",
+    "Signal loop pod",
+    "Social desk",
+    "Projects wing"
+  ],
+  "agents": [
+    {
+      "id": "grok",
+      "name": "Grok Bot",
+      "initials": "GB",
+      "role": "Primary router",
+      "zone": "Front office",
+      "lastSeen": "Nov 23"
+    },
+    {
+      "id": "reece",
+      "name": "Big Reece · Researcher",
+      "initials": "BR",
+      "role": "Deep research and competitive analysis",
+      "zone": "Front office",
+      "lastSeen": "Nov 2"
+    },
+    {
+      "id": "que",
+      "name": "Que",
+      "initials": "Q",
+      "role": "Product lead: PRDs and PASS calls",
+      "zone": "Build pod",
+      "lastSeen": "Oct 29"
+    },
+    {
+      "id": "kodie",
+      "name": "Kodie",
+      "initials": "K",
+      "role": "Coding and debug",
+      "zone": "Build pod",
+      "lastSeen": "Nov 2"
+    },
+    {
+      "id": "motion",
+      "name": "motion designer",
+      "initials": "MD",
+      "role": "Motion and animation for Core Tech apps and pages",
+      "zone": "Build pod",
+      "lastSeen": "Oct 29"
+    },
+    {
+      "id": "vg",
+      "name": "Vision Guy · Planning Judge",
+      "initials": "VG",
+      "role": "Planning judge",
+      "zone": "Build pod",
+      "lastSeen": "Nov 2"
+    },
+    {
+      "id": "prd",
+      "name": "prd builder",
+      "initials": "PB",
+      "role": "Turns adopt and prototype signals into PRDs",
+      "zone": "Signal loop pod",
+      "lastSeen": "Nov 2"
+    },
+    {
+      "id": "catalog",
+      "name": "catalog card",
+      "initials": "CC",
+      "role": "Drafts catalog cards for GibGitGib repos",
+      "zone": "Signal loop pod",
+      "lastSeen": "Oct 29"
+    },
+    {
+      "id": "eggbot",
+      "name": "dr eggbot",
+      "initials": "DE",
+      "role": "Bot designer",
+      "zone": "Signal loop pod",
+      "lastSeen": "Nov 2"
+    },
+    {
+      "id": "upgrade",
+      "name": "upgrade analyst",
+      "initials": "UA",
+      "role": "Adoption assessor for the signal loop",
+      "zone": "Signal loop pod",
+      "lastSeen": "Oct 31"
+    },
+    {
+      "id": "signal",
+      "name": "signal scout",
+      "initials": "SS",
+      "role": "X timeline scout for @CoreTechLabsApp",
+      "zone": "Signal loop pod",
+      "lastSeen": "Nov 2"
+    },
+    {
+      "id": "github",
+      "name": "github scout",
+      "initials": "GS",
+      "role": "GitHub discovery scout",
+      "zone": "Signal loop pod",
+      "lastSeen": "Nov 2"
+    },
+    {
+      "id": "writer",
+      "name": "social writer",
+      "initials": "SW",
+      "role": "Drafts build-in-public posts",
+      "zone": "Social desk",
+      "lastSeen": "Oct 30"
+    },
+    {
+      "id": "poster",
+      "name": "social poster",
+      "initials": "SP",
+      "role": "Publishes approved posts to @CoreTechLabsApp",
+      "zone": "Social desk",
+      "lastSeen": "Oct 30"
+    },
+    {
+      "id": "vacay",
+      "name": "Vacay Planner",
+      "initials": "VP",
+      "role": "Weekend weather trip planner bot",
+      "zone": "Projects wing",
+      "lastSeen": "Oct 30"
+    },
+    {
+      "id": "fantasy",
+      "name": "fantasy gm",
+      "initials": "FG",
+      "role": "Runs your fantasy football teams like a business",
+      "zone": "Projects wing",
+      "lastSeen": "Nov 2"
+    },
+    {
+      "id": "injury",
+      "name": "injury desk",
+      "initials": "ID",
+      "role": "Player news and injury sheet for fantasy gm",
+      "zone": "Projects wing",
+      "lastSeen": "Oct 31"
+    },
+    {
+      "id": "ranking",
+      "name": "ranking game",
+      "initials": "RG",
+      "role": "Runs your three-at-a-time fantasy ranking game",
+      "zone": "Projects wing",
+      "lastSeen": "Nov 2"
+    },
+    {
+      "id": "myopic",
+      "name": "Project Myopic",
+      "initials": "PM",
+      "role": "No sessions recorded yet",
+      "zone": "Projects wing",
+      "lastSeen": "None recorded"
+    }
+  ],
+  "rooms": [
+    {
+      "name": "HiveMind Harness",
+      "members": [
+        "Que",
+        "Kodie",
+        "Vision Guy",
+        "Big Reece"
+      ],
+      "topic": "Waiting on your A-then-B yes. New rule: every decision ask lists Kodie's real build time (A 15 to 30 min; B 1 to 2 days coding, 3 to 5 days total)",
+      "asOf": "Oct 30"
+    },
+    {
+      "name": "signal loop",
+      "members": [
+        "signal scout",
+        "github scout",
+        "upgrade analyst",
+        "prd builder",
+        "catalog card",
+        "dr eggbot"
+      ],
+      "topic": "Nov 2: X lane is back on; 5 repos handed today (1 from X, 4 from GitHub search), verdicts pending. Minilytics PRD and hit-rate plan still await your call",
+      "asOf": "Nov 2"
+    },
+    {
+      "name": "Fantasy Football",
+      "members": [
+        "fantasy gm",
+        "Big Reece",
+        "Vision Guy",
+        "dr eggbot"
+      ],
+      "topic": "v1 backtest done: 51.3% vs consensus 52.7%, so no build. Start/sit calls start from consensus for now; Big Reece's v2 (nudge consensus, own holdout) waits on your call",
+      "asOf": "Nov 2"
+    }
+  ],
+  "about": "Built from Linear as the source of truth (CoreTech Labs team), plus each agent's recorded sessions. The public page at https://gibgitgib.github.io/grok-office/ is a read-only view regenerated from Linear. Some desk items still reflect early-November notes where nothing newer was confirmed. Statuses are recorded, not live; any harness can update an item by writing to Linear. Project Myopic has no recorded sessions. injury desk and ranking game joined the office on Oct 30; the Vacay Planner room now lives on the Vacay Planner desk so the conference room keeps three tables."
+}
